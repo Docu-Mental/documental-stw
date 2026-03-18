@@ -192,18 +192,19 @@
 				<!-- note the order of panels is not dependent on the section order -->
 					<ul>					
 						<li><a href="#15">Docs-as-code</a></li>
+						<li><a href="#07">Android development</a></li>	
 						<li><a href="#01">Confluence developer-oriented wikis</a></li>
 						<li><a href="#12">Localization</a></li>
-						<li><a href="#02">Single-source projects</a></li>
+						
 					</ul>
 					<ul>
+						<li><a href="#02">Single-source projects</a></li>
 						<li><a href="#04">User and configuration guides</a></li>
 						<li><a href="#05">Confluence/k15t portals</a></li>
 						<li><a href="#03">Release notes</a></li>
-						<li><a href="#07">Product updates</a></li>	
 					</ul>
 					<ul>					
-						<li><a href="#06">Reference guides</a></li>
+						<li><a href="#06">Product updates & reference guides</a></li>
 						<li><a href="#08">Cheat sheets</a></li>
 						<li><a href="#09">Integrated documentation & training</a></li>
 						<li><a href="#13">My PhD. and associated publications</a></li>			
@@ -681,11 +682,12 @@
 										
 			<!-- 6 -->
 			<article id="06">
-				<h2 class="major">Reference guides</h2>
-				<p>These files show a glimpse of my involvement in the creation of technical reference guides:<br>
-					&nbsp; &nbsp; &nbsp; • The first file is a Release Notes PDF created using MadCap Flare<br>
-					&nbsp; &nbsp; &nbsp; • The other file is a screenshot of a technical reference section in Confluence</p>
-				<p>Click the first thumbnail to open the PDF inside an iframe on this page. Click the second thumbnail to display the screenshot.</p>
+				<h2 class="major">Product updates & reference guides</h2>
+				<p>These files show a glimpse of my involvement in the creation of product updates and technical reference guides:<br>
+					&nbsp; &nbsp; &nbsp; • The first file is a product update PDF created using MadCap Flare.<br>
+					&nbsp; &nbsp; &nbsp; • The second file is a reference guide PDF created using MadCap Flare<br>
+					&nbsp; &nbsp; &nbsp; • The third file is a screenshot of a technical reference section in Confluence</p>
+				<p>Click the first and second thumbnails to open the PDF inside an iframe on this page. Click the third thumbnail to display the screenshot.</p>
 											
 				<div class= "button-holder">
 					<a class="prev" onclick="plusSlides(-1, 'gallery6')">❮</a>
@@ -695,11 +697,13 @@
 			
 				<div class="scroll-container">
 
+					<a href="docs/article06/Product Update.pdf" target="iframe_6"><img id="6-01" title="product update" src="docs/article06/product-update.png" style="height:200px" onclick="handleContentClick(1, 'gallery6', true)"></a>
+					
 					<a href="docs/article06/Technical_Reference_Guide.pdf" target="iframe_6"  onclick="handleContentClick(1, 'gallery6', true)">
-						<img id="6-01" title="technical reference guide" class="demo cursor" src="docs/article06/technical-reference-guide.png" style="height:200px">
+						<img id="6-02" title="technical reference guide" class="demo cursor" src="docs/article06/technical-reference-guide.png" style="height:200px">
 					</a>
 
-					<img id="6-02" title="technical reference in Confluence" class="demo cursor" src="docs/article06/technical-reference.png" 
+					<img id="6-03" title="technical reference in Confluence" class="demo cursor" src="docs/article06/technical-reference.png" 
 						 style="height:200px" 
 						 onclick="handleContentClick(2, 'gallery6', false)">
 						 
@@ -732,23 +736,129 @@
 																			
 			<!-- 7 -->
 			<article id="07">
-				<h2 class="major">Product updates</h2>
-				<p>This file is an example of a Product Update that I worked on. It was created using MadCap Flare. I have also created "Product Preview" documents. </p>
-				<p>Click the thumbnail to open the PDF inside an iframe on this page. </p>
-				<div class="container" id="gallery7">
-				<div class="scroll-container">
+				<h2 class="major">Android development</h2>			
+								
+				<p>These files are screenshots of an Android app that I created in March 2026 as part of a personal project. The app is shortly due to undergo compulsory, regulated testing by a designated group of testers prior to its acceptance in Google Play Store. You can find a web-based demo version of the app here (note that the layout is optimized for Android):</p>
+				<p><a target=”_blank” href="https://docu-mental.github.io/MnemonixRussianDemo/">https://docu-mental.github.io/MnemonixRussianDemo/</a></p>
+				<p>Although the app does not fall within the scope of technical writing experience I am including it in my portfolio to give an indication of my technical abilities and my aptitude for learning. Before creating the app I took the Google Developer course for Android. More information about the app can be found beneath the screenshots.</p>
 				
-					<a href="docs/article07/Product Update.pdf" target="iframe_7"><img id="7-01" title="product update" src="docs/article07/product-update.png" style="height:200px" onclick="handleContentClick(1, 'gallery7', true)"></a>
+				<details class="accordion-item">
+				<summary>About the app</summary>
+				<div class="details-content-wrapper">
+				<p>The app is called <b>Mnemonix — Russian</b> and is a language-learning flashcard app focussed purely on Russian vocabulary. It is loaded with the 1000 most-frequent Russian words. Unlike other flashcard apps for language learning in Google Play Store, <b>Mnemonix — Russian</b> allows the user to enter their own mnemonic notes to help remember words. This is particularly useful for learners of Russian whose native language does not use the Cyrillic alphabet, such as native English speakers.</p>
+				<p>The screenshots show the following:</p>
+				<ul>
+					<li>App logo</li>
+					<li>Splash screen</li>
+					<li>Main screen showing word list</li>
+					<li>Flashcard screen - Russian word</li>
+					<li>Flashcard screen - English translation</li>
+					<li>Flashcard screen - Viewing/editing a mnemonic note</li>
+					<li>Flashcard screen - system redaction to hide a mnemonic note until the user clicks the block</li>
+					<li>Hidden words screen</li>
+					<li>Settings screen</li>
+				</ul>
+
+				<p>I set up the web demo version by migrating the app to a kotlin multiplatform setup. Note that because the web version is only for demos, any user-entered notes are not retained on closing or refreshing the page.</p>
+											  
+
+				</div>  <!-- end of class="details-content-wrapper" -->	
+				</details> <!-- end of expanding section -->	
+				
+				<div class= "button-holder">
+						<a class="prev" onclick="plusSlides(-1, 'gallery7')">❮</a>
+						<a class="next" onclick="plusSlides(1, 'gallery7')">❯</a>
+				</div>
+				<div class="container" id="gallery7">
+					<div class="scroll-container">
+				
+					<img id="01" title="logo" class="demo cursor" src="docs/article07/Mnemonix01-logo.png" style="height:150px" onclick="handleContentClick(1, 'gallery7', false)">				
+				
+					<img id="02" title="splash screen" class="demo cursor" src="docs/article07/Mnemonix02-splash.png" style="height:150px" onclick="handleContentClick(2, 'gallery7', false)">
+					
+					<img id="03" title="main screen" class="demo cursor" src="docs/article07/Mnemonix03-main.png" style="height:150px" onclick="handleContentClick(3, 'gallery7', false)">
+					
+					<img id="04" title="flash screen - Russian word" class="demo cursor" src="docs/article07/Mnemonix04-flash-a.png" style="height:150px" onclick="handleContentClick(4, 'gallery7', false)">		
+				
+					<img id="05" title="flash screen - translation" class="demo cursor" src="docs/article07/Mnemonix04-flash-b.png" style="height:150px" onclick="handleContentClick(5, 'gallery7', false)">
+					
+					<img id="06" title="flash screen - visible mnemonic" class="demo cursor" src="docs/article07/Mnemonix04-flash-c.png" style="height:150px" onclick="handleContentClick(6, 'gallery7', false)">
+					
+					<img id="07" title="flash screen - hidden mnemonic" class="demo cursor" src="docs/article07/Mnemonix04-flash-d.png" style="height:150px" onclick="handleContentClick(7, 'gallery7', false)">
+					
+					<img id="08" title="hidden words screen" class="demo cursor" src="docs/article07/Mnemonix05-hidden.png" style="height:150px" onclick="handleContentClick(8, 'gallery7', false)">
+										
+					<img id="9" title="settings screen" class="demo cursor" src="docs/article07/Mnemonix06-settings.png" style="height:150px" onclick="handleContentClick(9, 'gallery7', false)">
+
 					  
 				</div> <!-- end of scroll container -->
 				<div>
 					<p id="caption"></p>
 				</div>
-				</div> <!-- end of container for gallery 7 -->
+
+				<div class="mySlides">
+					<div class="numbertext">
+					<span class="slide-count">1 / 9</span>
+					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
+					<img src="docs/article07/Mnemonix01-logo.png" alt="logo" style="width:30%">
+				</div>
+
+				<div class="mySlides">
+					<div class="numbertext">
+					<span class="slide-count">2 / 9</span>
+					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
+					<img src="docs/article07/Mnemonix02-splash.png" alt="splash screen" style="width:30%">
+				</div>		
+
+				<div class="mySlides">
+					<div class="numbertext">
+					<span class="slide-count">3 / 9</span>
+					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
+					<img src="docs/article07/Mnemonix03-main.png" alt="main screen" style="width:30%">
+				</div>
 				
-				<iframe src="" name="iframe_7" width="500" height="500" style="margin-top: 60px;">
-				<p>Your browser does not support iframes.</p>
-				</iframe>				
+				<div class="mySlides">
+					<div class="numbertext">
+					<span class="slide-count">4 / 9</span>
+					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
+					<img src="docs/article07/Mnemonix04-flash-a.png" alt="flashcard - Russian" style="width:30%">
+				</div>
+
+				<div class="mySlides">
+					<div class="numbertext">
+					<span class="slide-count">5 / 9</span>
+					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
+					<img src="docs/article07/Mnemonix04-flash-b.png" alt="flashcard - translation" style="width:30%">
+				</div>	
+
+				<div class="mySlides">
+					<div class="numbertext">
+					<span class="slide-count">6 / 9</span>
+					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
+					<img src="docs/article07/Mnemonix04-flash-c.png" alt="flashcard - mnemonic" style="width:30%">
+				</div>
+
+				<div class="mySlides">
+					<div class="numbertext">
+					<span class="slide-count">7 / 9</span>
+					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
+					<img src="docs/article07/Mnemonix04-flash-d.png" alt="flashcard - hidden mnemonic" style="width:30%">
+				</div>		
+
+				<div class="mySlides">
+					<div class="numbertext">
+					<span class="slide-count">8 / 9</span>
+					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
+					<img src="docs/article07/Mnemonix05-hidden.png" alt="hidden words screen" style="width:30%">
+				</div>
+				
+				<div class="mySlides">
+					<div class="numbertext">
+					<span class="slide-count">9 / 9</span>
+					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
+					<img src="docs/article07/Mnemonix06-settings.png" alt="settings screen" style="width:30%">
+				</div>
+			</div> <!-- end of container for gallery 7 -->			
 			</article>
 					
 												

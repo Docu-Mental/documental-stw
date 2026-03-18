@@ -1,1 +1,23 @@
-This file is an example of a Product Update that I worked on. I have also created "Product Preview" documents.
+These files are screenshots of an Android app that I created in March 2026 as part of a personal project. 
+The app is shortly due to undergo compulsory, regulated testing by a designated group of testers prior to its acceptance in Google Play Store. 
+Although the app does not fall within the scope of technical writing experience I am including it in my portfolio to give an indication of my technical abilities and my aptitude for learning. Before creating the app I took the Google Developer course for Android.
+The app is called "Mnemonix — Russian" and is a language-learning flashcard app focussed purely on Russian vocabulary. It is loaded with the 1000 most-frequent Russian words. Unlike other flashcard apps for language learning in Google Play Store, Mnemonix — Russian allows the user to enter their own mnemonic notes to help remember words. This is particularly useful for learners of Russian whose native language does not use the Cyrillic alphabet, such as native English speakers.
+The screenshots show the following:
+• App logo
+• Splash screen
+• Main screen showing word list
+• Action of hiding a word (moving it from the main list to a "Hidden Words" list)
+• Flashcard screen - Russian word
+• Flashcard screen - English translation
+• Flashcard screen - Viewing/editing a mnemonic note
+• Flashcard screen - system redaction to hide a mnemonic note until the user clicks the block
+• Hidden words screen
+• Settings screen
+
+I have also created a web version of the app purely for demonstration purposes. You can find it here:
+
+https://docu-mental.github.io/MnemonixRussianDemo/
+
+Note that because this is only for demos, any user-entered notes are not retained on closing or refreshing the page.
+
+

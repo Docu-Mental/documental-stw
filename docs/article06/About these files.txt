@@ -1,3 +1,4 @@
-These files show a glimpse of my involvement in the creation of technical reference guides:
-- A Release Notes PDF file
+These files show a glimpse of my involvement in the creation of technical reference guides and product updates:
+- A technical reference guide PDF file
 - A screenshot of the Technical Reference section of a Confluence wiki space for which I was responsible
+- A product update PDF

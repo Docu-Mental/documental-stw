@@ -1,0 +1,618 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html><head>
+<meta name="GENERATOR" content="Omni Systems DCL filter dwhtm, Ver 3.3 h271">
+<!-- Sitemap 1.0 -->
+</head><body>
+<ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Overview">
+		<param name="Local" value="ae736785.htm">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="About DB Editor">
+			<param name="Local" value="ae736786.htm">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="DB Editor and New Features in 7.2">
+			<param name="Local" value="ae717199.htm">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Starting and Quitting DB Editor">
+			<param name="Local" value="ae653344.htm">
+			</object>
+		<ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Start DB Editor">
+				<param name="Local" value="ae645222.htm">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Quit DB Editor">
+				<param name="Local" value="ae472499.htm">
+				</object>
+		</ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="DB Editor Interface">
+			<param name="Local" value="ae472503.htm">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="DB Editor and System Configuration">
+		<param name="Local" value="ae737000.htm">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Access Rights and Users">
+			<param name="Local" value="ae736998.htm">
+			</object>
+		<ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Access Rights">
+				<param name="Local" value="ae736993.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="System Rights">
+					<param name="Local" value="ae616679.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="How Prescription/Validation rights work">
+					<param name="Local" value="ae737088.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="View Prescription/validation rights">
+					<param name="Local" value="ae653476.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a new Prescription/validation right">
+					<param name="Local" value="ae653481.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="CareSuite Users">
+				<param name="Local" value="ae617032.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a new user">
+					<param name="Local" value="ae705370.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Modify a user profile">
+					<param name="Local" value="ae705392.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Reset a user&#146;s password">
+					<param name="Local" value="ae705502.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Delete a user">
+					<param name="Local" value="ae705455.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="User Groups">
+				<param name="Local" value="ae705367.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a user group and assign rights to it">
+					<param name="Local" value="ae705343.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Modify a user group">
+					<param name="Local" value="ae658458.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Remove a user group">
+					<param name="Local" value="ae472577.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Clinical Roles">
+				<param name="Local" value="ae638671.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a new clinical role">
+					<param name="Local" value="ae705687.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Modify the attending types associated with a clinical role">
+					<param name="Local" value="ae705692.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Delete a clinical role">
+					<param name="Local" value="ae705744.htm">
+					</object>
+			</ul>
+		</ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Hospital Departments and Patient Locations">
+			<param name="Local" value="ae705282.htm">
+			</object>
+		<ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Workstations, Locations and Departments">
+				<param name="Local" value="ae677227.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a department">
+					<param name="Local" value="ae705085.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Modify a department">
+					<param name="Local" value="ae598605.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a patient location for a multibed unit">
+					<param name="Local" value="ae598616.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Modify a location">
+					<param name="Local" value="ae598668.htm">
+					</object>
+			</ul>
+		</ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Other Configuration Data">
+			<param name="Local" value="ae717489.htm">
+			</object>
+		<ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Perioperative Integration">
+				<param name="Local" value="ae641875.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Configure the system for perioperative integration">
+					<param name="Local" value="ae691989.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Configure the system for non-integrated operation">
+					<param name="Local" value="ae706033.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Encounter Types for Templates">
+				<param name="Local" value="ae691664.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create or modify an encounter type">
+					<param name="Local" value="ae658726.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Change the encounter type for a template">
+					<param name="Local" value="ae678065.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Audit Trails">
+				<param name="Local" value="ae691658.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Configure the type of audit trail">
+					<param name="Local" value="ae705174.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Configure the audit trail warning for users">
+					<param name="Local" value="ae641921.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Password Expiration">
+				<param name="Local" value="ae641933.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Set the password expiration period">
+					<param name="Local" value="ae641947.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Set the advance notice for password expiration">
+					<param name="Local" value="ae641953.htm">
+					</object>
+			</ul>
+		</ul>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="DB Editor and Clinical Content">
+		<param name="Local" value="af657714.htm">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Clinical Content">
+			<param name="Local" value="af894468.htm">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Content for Flowsheets">
+			<param name="Local" value="af657716.htm">
+			</object>
+		<ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Working with Auxiliary Tables">
+				<param name="Local" value="af757873.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Add an entry to a table">
+					<param name="Local" value="af757902.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Modify an entry on a table">
+					<param name="Local" value="af757913.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Delete an entry from a table">
+					<param name="Local" value="af757922.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Disable an entry to remove it from applications">
+					<param name="Local" value="af757934.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Auxiliary tables associated with flowsheet content">
+					<param name="Local" value="af938777.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Treatments">
+				<param name="Local" value="af894683.htm">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Medication and Fluid Treatments">
+				<param name="Local" value="af709116.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a medication">
+					<param name="Local" value="af656725.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a blood product, drip or other fluid">
+					<param name="Local" value="af661083.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a bodily fluid entry for documenting output">
+					<param name="Local" value="af639019.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a fluid additive">
+					<param name="Local" value="af642035.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Laboratory and Diagnostic Tests">
+				<param name="Local" value="af639196.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a diagnostic or laboratory activity">
+					<param name="Local" value="af657241.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Add a new analysis name to the database">
+					<param name="Local" value="af657155.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Add laboratory components to the database">
+					<param name="Local" value="af657177.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Add components to an analysis">
+					<param name="Local" value="af657189.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Sort order for analyses and components">
+					<param name="Local" value="af645775.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Set indexes for laboratory analyses and components">
+					<param name="Local" value="af645852.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Other Types of Care">
+				<param name="Local" value="af660863.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a nursing care treatment">
+					<param name="Local" value="af650706.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a respiratory therapy treatment">
+					<param name="Local" value="af650715.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a ventilator-related treatment">
+					<param name="Local" value="af663899.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Checklists for Assessments, QA Indicators and Equipment">
+				<param name="Local" value="af706200.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create an assessment">
+					<param name="Local" value="af676980.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a new QA indicator">
+					<param name="Local" value="af677014.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a new equipment list">
+					<param name="Local" value="af677051.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Edit a checklist (assessments, QA indicators, equipment)">
+					<param name="Local" value="af677076.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Custom Scores">
+				<param name="Local" value="af677095.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a score">
+					<param name="Local" value="af677117.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Schedules for Orders">
+				<param name="Local" value="af651089.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a Periodic or PRN schedule">
+					<param name="Local" value="af651122.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a Continuous schedule">
+					<param name="Local" value="af651135.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Delete a schedule">
+					<param name="Local" value="af660897.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Standard Orders">
+				<param name="Local" value="af764837.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create or modify a standard order">
+					<param name="Local" value="af651227.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Delete a standard order">
+					<param name="Local" value="af651265.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Auxiliary tables associated with standard orders">
+					<param name="Local" value="af653691.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Protocols">
+				<param name="Local" value="af651274.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a protocol">
+					<param name="Local" value="af651305.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Modify a protocol">
+					<param name="Local" value="af651316.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Delete a protocol">
+					<param name="Local" value="af651323.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Rename a protocol">
+					<param name="Local" value="af651328.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Real-Time Variables">
+				<param name="Local" value="af662312.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Set the properties of real-time variables">
+					<param name="Local" value="af662333.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Derived Variables">
+				<param name="Local" value="af662373.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Formulas for derived variables">
+					<param name="Local" value="af662387.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Error returned by formulas">
+					<param name="Local" value="af662516.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Preventing errors with IF, ISERR and ISEMPTY">
+					<param name="Local" value="af662534.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="How expressions are evaluated">
+					<param name="Local" value="af662542.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Circular references in formulas">
+					<param name="Local" value="af662562.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Sample formulas for derived variables">
+					<param name="Local" value="af662577.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Configure a derived variable">
+					<param name="Local" value="af662606.htm">
+					</object>
+			</ul>
+		</ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Specialized Windows">
+			<param name="Local" value="af660561.htm">
+			</object>
+		<ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Demographics">
+				<param name="Local" value="af646970.htm">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Common Choices for Diagnoses, Procedures and Allergies">
+				<param name="Local" value="af655278.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Copy an existing common choices list">
+					<param name="Local" value="af654887.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Add items to a common choices list">
+					<param name="Local" value="af654897.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Change the order of common choices">
+					<param name="Local" value="af654905.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Remove an item from a common choices list">
+					<param name="Local" value="af654929.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Events and SAM Windows">
+				<param name="Local" value="af651366.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create or modify an event symbol">
+					<param name="Local" value="af646985.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Designate an event for use in SAM">
+					<param name="Local" value="af646990.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Auxiliary tables associated with events">
+					<param name="Local" value="af653898.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Patient Summary">
+				<param name="Local" value="af652362.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create or modify a note type">
+					<param name="Local" value="af647179.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Add sections (note blocks) to a note type">
+					<param name="Local" value="af647189.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Auxiliary tables associated with the Patient Summary">
+					<param name="Local" value="af654073.htm">
+					</object>
+			</ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Preop Manager">
+				<param name="Local" value="af651042.htm">
+				</object>
+			<ul>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a section in the medical history">
+					<param name="Local" value="af643407.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Add a finding to a medical history section">
+					<param name="Local" value="af691608.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a section in the physical examination">
+					<param name="Local" value="af691650.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a finding for a physical examination section">
+					<param name="Local" value="af691663.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a risk assessment form">
+					<param name="Local" value="af819140.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a risk assessment type">
+					<param name="Local" value="af936971.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a risk factor for a risk assessment">
+					<param name="Local" value="af936860.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a finding for a risk factor">
+					<param name="Local" value="af819156.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a recommendation for the total risk assessment score">
+					<param name="Local" value="af819175.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a risk assessment form">
+					<param name="Local" value="af937330.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a section in the anesthesia plan">
+					<param name="Local" value="af937648.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Add a finding to an anesthesia plan section">
+					<param name="Local" value="af660949.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a preoperative instruction type">
+					<param name="Local" value="af643679.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a preoperative instruction">
+					<param name="Local" value="af644085.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create an evaluation status">
+					<param name="Local" value="af819185.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a signature type for signing evaluations">
+					<param name="Local" value="af801191.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Create a standard comment for addenda">
+					<param name="Local" value="af643458.htm">
+					</object>
+				<li> <object type="text/sitemap">
+					<param name="Name" value="Auxiliary tables associated with Preop Manager">
+					<param name="Local" value="af644855.htm">
+					</object>
+			</ul>
+		</ul>
+	</ul>
+</ul>
+</body></html>

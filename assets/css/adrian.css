@@ -231,13 +231,3 @@ body {
     filter: brightness(100%) contrast(100%);
     backface-visibility: hidden;
 }
-
-/* link settings */
-p a {
-  color: #33bbff; /* Or any color you prefer */
-  text-decoration: underline;
-}
-
-p a:hover {
-  cursor: pointer;
-}

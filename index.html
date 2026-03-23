@@ -750,11 +750,11 @@
 				<ul>
 					<li>App logo</li>
 					<li>Splash screen</li>
+					<li>Onboarding screen shown on first use</li>
 					<li>Main screen showing word list</li>
 					<li>Flashcard screen - Russian word</li>
 					<li>Flashcard screen - English translation</li>
 					<li>Flashcard screen - Viewing/editing a mnemonic note</li>
-					<li>Flashcard screen - system redaction to hide a mnemonic note until the user clicks the block</li>
 					<li>Hidden words screen</li>
 					<li>Settings screen</li>
 				</ul>
@@ -774,18 +774,18 @@
 				
 					<img id="01" title="logo" class="demo cursor" src="docs/article07/Mnemonix01-logo.png" style="height:150px" onclick="handleContentClick(1, 'gallery7', false)">				
 				
-					<img id="02" title="splash screen" class="demo cursor" src="docs/article07/Mnemonix02-splash.png" style="height:150px" onclick="handleContentClick(2, 'gallery7', false)">
+					<img id="02" title="splash screen" class="demo cursor" src="docs/article07/Mnemonix02a-splash.png" style="height:150px" onclick="handleContentClick(2, 'gallery7', false)">
 					
-					<img id="03" title="main screen" class="demo cursor" src="docs/article07/Mnemonix03-main.png" style="height:150px" onclick="handleContentClick(3, 'gallery7', false)">
+					<img id="03" title="onboarding screen" class="demo cursor" src="docs/article07/Mnemonix02b-onboarding.png" style="height:150px" onclick="handleContentClick(3, 'gallery7', false)">
 					
-					<img id="04" title="flash screen - Russian word" class="demo cursor" src="docs/article07/Mnemonix04-flash-a.png" style="height:150px" onclick="handleContentClick(4, 'gallery7', false)">		
+					<img id="04" title="main screen" class="demo cursor" src="docs/article07/Mnemonix03-main.png" style="height:150px" onclick="handleContentClick(4, 'gallery7', false)">
+					
+					<img id="05" title="flash screen - Russian word" class="demo cursor" src="docs/article07/Mnemonix04-flash-a.png" style="height:150px" onclick="handleContentClick(5, 'gallery7', false)">		
 				
-					<img id="05" title="flash screen - translation" class="demo cursor" src="docs/article07/Mnemonix04-flash-b.png" style="height:150px" onclick="handleContentClick(5, 'gallery7', false)">
+					<img id="06" title="flash screen - translation" class="demo cursor" src="docs/article07/Mnemonix04-flash-b.png" style="height:150px" onclick="handleContentClick(6, 'gallery7', false)">
 					
-					<img id="06" title="flash screen - visible mnemonic" class="demo cursor" src="docs/article07/Mnemonix04-flash-c.png" style="height:150px" onclick="handleContentClick(6, 'gallery7', false)">
-					
-					<img id="07" title="flash screen - hidden mnemonic" class="demo cursor" src="docs/article07/Mnemonix04-flash-d.png" style="height:150px" onclick="handleContentClick(7, 'gallery7', false)">
-					
+					<img id="07" title="flash screen - visible mnemonic" class="demo cursor" src="docs/article07/Mnemonix04-flash-c.png" style="height:150px" onclick="handleContentClick(7, 'gallery7', false)">
+										
 					<img id="08" title="hidden words screen" class="demo cursor" src="docs/article07/Mnemonix05-hidden.png" style="height:150px" onclick="handleContentClick(8, 'gallery7', false)">
 										
 					<img id="9" title="settings screen" class="demo cursor" src="docs/article07/Mnemonix06-settings.png" style="height:150px" onclick="handleContentClick(9, 'gallery7', false)">
@@ -807,43 +807,43 @@
 					<div class="numbertext">
 					<span class="slide-count">2 / 9</span>
 					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
-					<img src="docs/article07/Mnemonix02-splash.png" alt="splash screen" style="width:30%">
-				</div>		
-
+					<img src="docs/article07/Mnemonix02a-splash.png" alt="splash screen" style="width:30%">
+				</div>	
+				
 				<div class="mySlides">
 					<div class="numbertext">
 					<span class="slide-count">3 / 9</span>
+					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
+					<img src="docs/article07/Mnemonix02b-onboarding.png" alt="main screen" style="width:30%">
+				</div>			
+
+				<div class="mySlides">
+					<div class="numbertext">
+					<span class="slide-count">4 / 9</span>
 					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
 					<img src="docs/article07/Mnemonix03-main.png" alt="main screen" style="width:30%">
 				</div>
 				
 				<div class="mySlides">
 					<div class="numbertext">
-					<span class="slide-count">4 / 9</span>
+					<span class="slide-count">5 / 9</span>
 					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
 					<img src="docs/article07/Mnemonix04-flash-a.png" alt="flashcard - Russian" style="width:30%">
 				</div>
 
 				<div class="mySlides">
 					<div class="numbertext">
-					<span class="slide-count">5 / 9</span>
+					<span class="slide-count">6 / 9</span>
 					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
 					<img src="docs/article07/Mnemonix04-flash-b.png" alt="flashcard - translation" style="width:30%">
 				</div>	
 
 				<div class="mySlides">
 					<div class="numbertext">
-					<span class="slide-count">6 / 9</span>
+					<span class="slide-count">7 / 9</span>
 					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
 					<img src="docs/article07/Mnemonix04-flash-c.png" alt="flashcard - mnemonic" style="width:30%">
 				</div>
-
-				<div class="mySlides">
-					<div class="numbertext">
-					<span class="slide-count">7 / 9</span>
-					<span class="close-slide-btn" onclick="hideCurrentSlide('gallery7')">&times;</span></div>
-					<img src="docs/article07/Mnemonix04-flash-d.png" alt="flashcard - hidden mnemonic" style="width:30%">
-				</div>		
 
 				<div class="mySlides">
 					<div class="numbertext">

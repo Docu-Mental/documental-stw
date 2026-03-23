@@ -1,0 +1,233 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: relative;
+  top: 0px;
+  width: auto;
+  padding: 16px;
+  margin-top: 0px;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+	position: absolute;
+  right: 0px;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  
+  /* CRITICAL CHANGE: Use flexbox for layout */
+  display: flex; 
+  /* Pushes content to the edges: count on the left, 'X' on the right */
+  justify-content: space-between; 
+  /* Vertically aligns children to the center of the numbertext bar */
+  align-items: center; 
+  width: 100%; 
+  
+  /* Retain existing styles */
+  padding: 8px 12px; 
+  position: relative;
+  top: 0px;
+}
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+/* Hale and Pace */
+/* #disclaimer {
+    display: none;
+} */
+
+
+
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 0 10px 10px 10px;
+  position: relative;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
+
+/* to ensure same height and width of thumbnails, with truncation */
+.1tab-image {
+  width: 150px;/* Or any desired fixed width */
+  height: 100px; /* Or any desired fixed height */
+  object-fit: cover;
+  display: block;
+  object-position: top; 
+}
+
+.1tab-image.left {
+   object-position: left top; 
+}
+
+div.button-holder {
+  background-color: #333;
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 10px 10px 0px 10px;
+  position: relative;
+}
+
+
+/* Style for the close button INSIDE .numbertext */
+.close-slide-btn {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  z-index: 10;
+  /* Ensure a better clickable area without affecting alignment */
+  padding: 0 4px; 
+  line-height: 1; 
+  /* Prevent the button from affecting the vertical space of the numbertext */
+  flex-shrink: 0; 
+}
+
+.close-slide-btn:hover,
+.close-slide-btn:focus {
+  color: #bbb;
+}
+
+/* ------Animating opening and closing of a Details element------*/
+
+        /* Define the duration for the transition */
+        :root {
+            --animation-duration: 1.5s; 
+        }
+
+        /* Base CSS for transition properties and initial state */
+        .details-content-wrapper {
+            max-height: 0; /* Default closed state */
+            overflow: hidden;
+            opacity: 0;
+            padding-left: 10px; 
+            padding-right: 10px;
+            /* The transition duration is defined here, but max-height changes are controlled by JS */
+            transition: max-height var(--animation-duration) ease-in-out, 
+                        opacity 0.7s ease-in-out 0.2s; 
+        }
+
+        /* Class added by JS to show the content's opacity and padding */
+        .details-content-wrapper.is-open {
+            opacity: 1;
+            padding-bottom: 10px;
+        }
+
+        /* Styling to ensure the default marker works cleanly */
+        summary {
+            cursor: pointer;
+            margin-bottom: 5px;
+            padding: 5px 0;
+            font-weight: bold;
+        }
+		
+/* Force ALL header decorative lines to white */
+
+/* 1. The main vertical line above the title */
+#header::before {
+    background-color: #ffffff !important;
+    background-image: none !important; /* Removes any dark gradients */
+    width: 1px !important;
+}
+
+/* 2. The lines inside the 'content' box (around the title) */
+#header .content .inner::before,
+#header .content .inner::after {
+    background-color: #ffffff !important;
+    background-image: none !important;
+    border-color: #ffffff !important;
+}
+
+/* 3. The navigation grid lines */
+#header nav ul {
+    border-top: solid 1px #ffffff !important;
+}
+
+#header nav ul li {
+    border-left: solid 1px #ffffff !important;
+}
+
+/* 4. The diamond icon line */
+.logo::before {
+    background-color: #ffffff !important;
+}
+
+/* Sharpens the rendering in Edge/Chromium */
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+/* Force specific opacity for the wrapper to prevent gamma washing */
+#wrapper {
+    background-image: radial-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5));
+}
+
+/* Fix for gallery thumbnails appearing hazy */
+.scroll-container img {
+    filter: brightness(100%) contrast(100%);
+    backface-visibility: hidden;
+}

@@ -1,0 +1,286 @@
+
+html {background-color:white;}
+
+/* PARA and SPAN names are CASE-SENSITIVE!! */
+/* margins: Top Right Bottom Left ***NO commas between parameters!*/
+/* font syntax for span classes is different. e.g. .name { font-family: Wingdings 2} */
+
+p.SymbolDownArrow {margin: -2pt 0pt -7pt 40pt}
+.TopHelp {margin: 15pt 0pt 5pt 30pt}
+p.BodyHeading { font:  10pt/12pt "Tahoma";
+margin: 5pt 0pt 5pt 0pt}
+
+A:link {color:#0066CC; }
+A:visited {color:#0066CC; }
+A:active {color:#0066CC; }
+a:hover {color:#0066CC; font-weight: bold; }
+
+p.Relatedtopics {font:  10pt/12pt "Tahoma";
+margin: 30pt 0pt 5pt 0pt; font-weight: bold;}
+/*==============BODY TEXT================*/
+p.BodyText { font:  10pt/12pt "Tahoma";
+margin: 5pt 0pt 5pt 0pt}
+
+p.DeleteInVCHelpBody { font:  10pt/12pt "Tahoma";
+margin: 5pt 0pt 5pt 0pt}
+
+/*==============SPAN CLASSES================*/
+.BoldClass { font-weight: bold }
+.BulletFontClass { font-family: Wingdings; color: #0066CC }
+.BulletListwithinNumListClass { font-family: Wingdings 3; color: #0066CC; font-size: 10px }
+.CommandClass { font-weight: bold }
+.DBTableNameClass { font-variant: small-caps }
+.EmphasisClass { font-style: italic}
+.NoteHeadingClass { font-family: Tahoma; font-weight: bold;font-size: 105%}
+.NumbersClass { font-family: Tahoma; font-weight: bold; color: #0066CC }
+.SmallcapsClass { font-variant: small-caps }
+.SpecialCase1Class { font-family: Wingdings 3; color: #0066CC; font-size: 10px }
+.StepBulletClass { font-family: Wingdings; color: #0066CC }
+.TickClass { font-family: Wingdings 2}
+.UnderlineClass { text-decoration: underline }
+
+
+/*==============BULLETED================*/
+p.Bulleted { font: 10pt/12pt "Tahoma"; 
+margin: 5pt 0pt 5pt 16pt; text-indent: -13pt }
+
+p.BulletedNoBullet { font: 10pt/12pt "Tahoma"; 
+margin: 5pt 0pt 5pt 16pt;text-indent: 0pt   }
+
+p.BulletedInAnotherBulletedList { font: 10pt/12pt "Tahoma";
+margin: 5pt 0pt 5pt 25pt; text-indent: -8pt }
+
+p.BulletedInaNumberedList { font: 10pt/12pt "Tahoma"; 
+margin: 5pt 0pt 5pt 25pt; text-indent: -8pt }
+
+p.BulletinInaNumberedListNoBullet { font: 10pt/12pt "Tahoma";
+margin: 5pt 0pt 5pt 29pt; text-indent: 0pt  }
+
+/*==============NUMBERED================*/
+p.Numbered1 { font: 10pt/12pt "Tahoma";
+margin: 5pt 0pt 5pt 16pt; text-indent: -16pt   }
+
+p.Numbered { font: 10pt/12pt "Tahoma";
+margin: 5pt 0pt 5pt 16pt; text-indent: -16pt  }
+
+p.NumberedNoNumber { font: 10pt/12pt "Tahoma";
+margin: 5pt 0pt 5pt 16pt;text-indent: 0pt   }
+
+p.OneStepProcedure { font: 10pt/12pt "Tahoma";
+margin: 5pt 0pt 5pt 16pt; text-indent: -13pt }
+
+/*==============HEADINGS================*/
+h1.Heading1 { font: bold 12pt/13pt "Tahoma"; margin-top:20px}
+h1.Heading1Special { font: bold 12pt/13pt "Tahoma" }
+h1.Heading1NoNumber { font: bold 12pt/13pt "Tahoma" }
+h2.Heading2  { font-style: normal; font-variant: normal; font-weight: bold; line-height: 13pt; 
+               font-size: 12pt; font-family: Tahoma; color: #336699; margin-top:20px }
+h2.Heading2Special { font: bold 12pt/13pt "Tahoma" }
+h3.Heading3  { font-style: normal; font-variant: normal; font-weight: bold; line-height: 13pt; 
+               font-size: 12pt; font-family: Tahoma; color: #336699;margin-top:20px }
+h3.Heading3Special { font: bold 12pt/13pt "Tahoma" }
+h4.Heading4 { font: bold 11pt/12pt "Tahoma"; margin-top:20px }
+h4.Heading4Special { font: bold 11pt/12pt "Tahoma"; margin-top:20px }
+h5.Heading5 { font: bold 9pt/12pt "Tahoma" 
+margin: 6pt 0pt 5pt 0pt; text-indent: 0pt}
+h6.Heading5Centered { font: bold 11pt/12pt "Tahoma" }
+h7.RelatedTopics { font: bold 9pt/12pt "Tahoma" }
+
+/*==============TABLES================*/
+p.TableAnchor { font: 8pt/15pt "Tahoma";
+margin: 8pt 0pt 0pt 0pt }
+
+p.TableAnchorInNumberedList { font: 8pt/15pt "Tahoma";
+margin: 0pt 0 0 0pt }
+
+p.TableAnchorBulleted { font: 8pt/15pt "Tahoma";
+margin: 0pt 0 0 0pt }
+
+p.TableSpaceAfter{ font: 0pt/0pt "Tahoma"; 
+margin: 2pt 0 0 0  }
+
+/*==============OTHERS================*/
+p.HelpHeading3  { font-style: normal; font-variant: normal; font-weight: bold; line-height: 13pt; 
+               font-size: 12pt; font-family: Tahoma; color: #336699 }
+
+p.Spacer2pt { font: 2pt/2pt "Tahoma"; margin: 0pt 0pt 0pt 0pt}
+
+p.ActiveTOC { font: 10pt/12pt "Tahoma" }
+
+p.Appendix { font: bold 12pt/13pt "Tahoma" }
+
+p.AppendixTOC { font: 10pt/12pt "Tahoma" }
+
+p.BodyTextItalic { font: italic 10pt/12pt "Tahoma" }
+
+p.BodyTextTable { font: 9pt/10pt "Tahoma"; margin: 3pt 0pt 3pt 0pt }
+
+p.BodyTextTableCentre { font: 9pt/10pt "Tahoma"; margin: 3pt 0pt 3pt 0pt }
+
+p.BodyTextTableBold { font: bold 9pt/10pt "Tahoma"; margin: 3pt 0pt 3pt 0pt  }
+
+p.BodyTextTableBoldWHITE { font: bold 9pt/10pt "Tahoma"; margin: 0pt 0pt 0pt 0pt; color: white  }
+
+p.ButtonText { font: 8pt/10pt "Tahoma" }
+
+p.Caption { font: 8pt/9pt "Tahoma"; margin: -5pt 0pt 10pt 0pt }
+
+p.CaptionIndented { font: 8pt/9pt "Tahoma"; margin: -5pt 0pt 10pt 15pt }
+
+p.CellBody { font: 10pt/12pt "Tahoma" }
+
+p.CellHeading { font: 10pt/12pt "Tahoma" }
+
+p.ChapterTab { font: 10pt/12pt "Tahoma" }
+
+p.CodeBase { font: 10pt/12pt "Courier New" }
+
+p.ContentsTitle { font: bold 12pt/14pt "Tahoma" }
+
+p.CopyrightBulleted { font: 8pt/10pt "Tahoma" }
+
+p.CopyrightHeading { font: bold 10pt/12pt "Tahoma" }
+
+p.CopyrightText { font: 8pt/10pt "Tahoma" }
+
+p.Dummy { font: 12pt/14pt "Tahoma";
+color: #FFFFFF }
+
+p.Flash { font: italic 2pt/0 "Tahoma";
+margin: 11pt 0pt 0 0 }
+
+p.Footer { font: 10pt/12pt "Tahoma" }
+
+p.GroupTitlesIX { font: 10pt/12pt "Tahoma" }
+
+p.Header { font: 10pt/12pt "Tahoma" }
+
+p.Heading1NoNumberTOC { font: bold 11pt/12pt "Tahoma" }
+
+p.Heading1TOC { font: 10pt/12pt "Tahoma" }
+
+p.Heading2TOC { font: 10pt/12pt "Tahoma" }
+
+p.Heading3TOC { font: 10pt/12pt "Tahoma" }
+
+p.Heading4TOC { font: 10pt/12pt "Tahoma" }
+
+p.Heading5TOC { font: 10pt/12pt "Tahoma" }
+
+p.HeadingValues { font: bold 10pt/12pt "Tahoma" }
+
+p.IndexIX { font: 10pt/12pt "Tahoma" }
+
+p.IndexTitle { font: bold 12pt/14pt "Tahoma" }
+
+p.IndexTitleTOC { font: 10pt/12pt "Tahoma" }
+
+p.Level1IX { font: 10pt/12pt "Tahoma" }
+
+p.Level2IX { font: 10pt/12pt "Tahoma" }
+
+p.MappingTableCell { font: 10pt/12pt "Tahoma" }
+
+p.MappingTableTitle { font: 10pt/12pt "Tahoma" }
+
+p.MarginNote { font: 10pt/12pt "Tahoma" }
+
+p.MarginNoterightaligned { font: 10pt/12pt "Tahoma" }
+
+p.MarginNotespaceabove { font: 10pt/12pt "Tahoma" }
+
+p.MarginTextFrame { font: 10pt/12pt "Tahoma" }
+
+p.NoteTable { font: 10pt/12pt "Tahoma" }
+
+p.PageBreak { font: 10pt/12pt "Tahoma" }
+
+p.PageBreakWithContinued { font: 10pt/12pt "Tahoma" }
+
+
+p.RunningFooter { font: 10pt/12pt "Tahoma" }
+
+p.Screenshot3pt { font: 3pt/6pt "Tahoma" }
+
+p.Screenshot3ptwhite { font: 3pt/6pt "Tahoma";
+color: #FFFFFF }
+
+
+
+p.Screenshot35pt { font: 4pt/7pt "Tahoma" }
+
+p.Screenshot35ptwhite { font: 4pt/7pt "Tahoma";
+color: #FFFFFF }
+
+p.Screenshot4pt { font: 4pt/6pt "Tahoma" }
+
+p.Screenshot4ptwhite { font: 4pt/6pt "Tahoma";
+color: #FFFFFF }
+
+p.Screenshot45pt { font: 5pt/6pt "Tahoma" }
+
+p.Screenshot45ptwhite { font: 5pt/6pt "Tahoma";
+color: #FFFFFF }
+
+p.Screenshot5pt { font: 5pt/6pt "Tahoma" }
+
+p.Screenshot5ptwhite { font: 5pt/6pt "Tahoma";
+color: #FFFFFF }
+
+p.Screenshot55pt { font: 6pt/7pt "Tahoma" }
+
+p.Screenshot55ptwhite { font: 6pt/7pt "Tahoma";
+color: #FFFFFF }
+
+p.Screenshot6pt { font: 6pt/7pt "Tahoma" }
+
+p.Screenshot6ptwhite { font: 6pt/6pt "Tahoma";
+color: #FFFFFF }
+
+p.Screenshot65pt { font: 7pt/8pt "Tahoma";
+margin: 2pt 0 0 0 }
+
+p.Screenshot65ptwhite { font: 7pt/6pt "Tahoma";
+color: #FFFFFF }
+
+p.Screenshot7pt { font: 7pt/8pt "Tahoma" }
+
+p.Screenshot7ptwhite { font: 7pt/6pt "Tahoma";
+color: #FFFFFF }
+
+p.Screenshot75pt { font: 8pt/8pt "Tahoma" }
+
+p.Screenshot75ptwhite { font: 8pt/6pt "Tahoma";
+color: #FFFFFF }
+
+p.Screenshot8pt { font: 8pt/10pt "Tahoma" }
+
+p.Screenshot8ptwhite { font: 8pt/6pt "Tahoma";
+color: #FFFFFF }
+
+p.Screenshot85pt { font: 9pt/11pt "Tahoma" }
+
+p.Screenshot85ptwhite { font: 9pt/6pt "Tahoma";
+color: #FFFFFF }
+
+p.TitleProductName { font: 10pt/12pt "Tahoma" }
+
+p.TitleUsersGuide { font: 10pt/12pt "Tahoma" }
+
+p.WarningLicenceHeading { font: bold 10pt/12pt "Tahoma" }
+
+p.TableTitle { font: bold 9pt/11pt "Tahoma" }
+
+p.CellFooting { font: 12pt/14pt "Tahoma";
+text-align: center }
+
+p.ScreenshotBullet { font: 9pt/11pt "Tahoma";
+margin: 2pt 0 0 0; text-align: right }
+
+p.ScreenshotBodyText { font: 9pt/11pt "Tahoma" }
+
+p.ScreenshotHeaderText { font: 6pt/7pt "Tahoma" }
+
+p.z1tab { font: 9pt/12pt "Tahoma" }
+
+p.z2tabs { font: 9pt/12pt "Tahoma" }

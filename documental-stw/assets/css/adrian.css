@@ -231,3 +231,8 @@ body {
     filter: brightness(100%) contrast(100%);
     backface-visibility: hidden;
 }
+
+/* Toggle count. Set it off for now as issue with PDFs and slides together */
+.slide-count {
+	display:none;
+}

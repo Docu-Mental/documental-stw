@@ -1,0 +1,1 @@
+These files are screenshots of portal prototypes that I created using the K15t Scroll addin for Confluence. Topics are authored in Confluence, but rendered as traditional web portals. Conditions are used to create multiple portal versions from a single source. Customers are provided access to a specific high-level portal and from there can access multiple sub-portals.

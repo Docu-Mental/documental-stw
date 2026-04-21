@@ -1,0 +1,1 @@
+These files are screenshots of portal prototypes that I created using the K15t Scroll addin for Confluence. Customers are provided access to a specific high-level portal and from there can access multiple sub-portals.

@@ -37,7 +37,7 @@ function handleContentClick(n, galleryId, isLink) {
         // Reset active thumbnails
         resetActiveDots(container);
 
-        // ✅ NEW unified caption logic — always use the thumbnail’s title (optional improvement)
+        // ✅ NEW unified caption logic — always use the thumbnail's title (optional improvement)
         const captionText = container.querySelector("#caption");
         const allThumbs = container.querySelectorAll("img");
         if (captionText && allThumbs[n - 1]) {
@@ -68,19 +68,32 @@ function resetActiveDots(container) {
 /* ---------------------------------------------------------------------- */
 
 function plusSlides(n, galleryId) {
-    if (slideIndex[galleryId] === 0) {
-        slideIndex[galleryId] = 1;
+    const container = document.getElementById(galleryId);
+    if (!container) return;
+
+    const slides = container.getElementsByClassName("mySlides");
+
+    // Compute new index with wrap-around
+    let newIndex = slideIndex[galleryId] === 0 ? 1 : slideIndex[galleryId] + n;
+    if (newIndex > slides.length) newIndex = 1;
+    if (newIndex < 1) newIndex = slides.length;
+    slideIndex[galleryId] = newIndex;
+
+    // Check if the thumbnail at this position is a PDF link or a plain image
+    const thumbImgs = container.querySelectorAll('.scroll-container img');
+    const thumb = thumbImgs[newIndex - 1];
+    const isLink = thumb && thumb.parentElement.tagName === 'A';
+
+    if (isLink) {
+        // Clicking the <a> handles both iframe load (via target attr) and handleContentClick
+        thumb.parentElement.click();
     } else {
-        slideIndex[galleryId] += n;
+        const iframeId = galleryId.replace('gallery', 'iframe_');
+        const iframe = document.getElementById(iframeId);
+        if (iframe) iframe.style.display = 'none';
+        showSlides(newIndex, galleryId);
     }
-    
-    const iframeId = galleryId.replace('gallery', 'iframe_');
-    const iframe = document.getElementById(iframeId);
-    if (iframe) iframe.style.display = 'none';
-
-    showSlides(slideIndex[galleryId], galleryId);
 }
-
 function currentSlide(n, galleryId) {
     const iframeId = galleryId.replace('gallery', 'iframe_');
     const iframe = document.getElementById(iframeId);
@@ -205,7 +218,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!summary || !content) return;
 
         summary.addEventListener('click', (e) => {
-            e.preventDefault(); 
+            e.preventDefault();
+
+            // Clear the shared iframe whenever any accordion is opened or closed
+            const iframe = document.querySelector('iframe[name="iframe_4"]');
+            if (iframe) iframe.src = '';
             
             if (details.hasAttribute('open')) {
                 content.style.maxHeight = content.scrollHeight + 'px';

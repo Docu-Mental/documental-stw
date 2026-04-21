@@ -1,0 +1,16 @@
+<!-- Google tag for manager version (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8H5WT78G50"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8H5WT78G50');
+</script>
+
+
+
+
+
+
+Remember also has different info in Docs as code section

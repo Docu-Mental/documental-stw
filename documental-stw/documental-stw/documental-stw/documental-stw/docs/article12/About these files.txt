@@ -1,0 +1,4 @@
+These files highligh my involvement in localization projects. 
+- A PDF of a presentation that I gave at a national tech writing conference in the UK. 
+- Two PDFs showing a translation project that I worked on (Spanish to English). Note that I was asked to maintain the source formattting.
+- My PhD. thesis in Spanish, which I personally translated.

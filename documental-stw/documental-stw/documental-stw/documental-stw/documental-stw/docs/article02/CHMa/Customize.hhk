@@ -1,0 +1,2920 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html><head>
+<meta name="GENERATOR" content="Omni Systems DCL filter dwhtm, Ver 3.3 h271">
+<!-- Sitemap 1.0 -->
+</head><body>
+<ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="access rights">
+		<param name="See Also" value="access rights">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="end-user, discontinuing orders">
+			<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+			<param name="Local" value="ab690669.htm#Xab949173">
+			<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+			<param name="Local" value="ab690669.htm#Xab949173">
+			<param name="Name" value="Rights needed to discontinue orders">
+			<param name="Local" value="ac502181.htm#Xac530027">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="system configuration, Customize">
+			<param name="Name" value="Starting and Quitting Customize">
+			<param name="Local" value="ab761719.htm#Xab886751">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Access Type workstation setting">
+		<param name="Name" value="New Concepts in 7.2">
+		<param name="Local" value="aa493200.htm#Xaa503548">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="add-ins">
+		<param name="See Also" value="add-ins">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Add-Ins">
+			<param name="Local" value="ab586565.htm#Xab889374">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="applications">
+			<param name="Name" value="Configure an external application as an add-in">
+			<param name="Local" value="ab586649.htm#Xab952179">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Concurrency">
+			<param name="Name" value="Add-Ins">
+			<param name="Local" value="ab586565.htm#Xab649606">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="macros to insert events">
+			<param name="Name" value="Configure a macro as an add-in">
+			<param name="Local" value="ab586622.htm#Xab952127">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="screen layouts">
+			<param name="Name" value="Configure a screen layout as an add-in">
+			<param name="Local" value="ab586675.htm#Xab952205">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="setting properties">
+			<param name="Name" value="Modify the properties of an add-in">
+			<param name="Local" value="ab649544.htm#Xab952223">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Alerts ON by default parameter">
+		<param name="Name" value="Set the default status of alerts">
+		<param name="Local" value="ab763484.htm#Xab949328">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="alerts">
+		<param name="See Also" value="alerts">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="default status for all">
+			<param name="Name" value="Set the default status of alerts">
+			<param name="Local" value="ab763484.htm#Xab949328">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="limits for individual variables">
+			<param name="Name" value="Variable Properties">
+			<param name="Local" value="ab1137671.htm#Xab888640">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Allergies/Precautions box, configuring">
+		<param name="Name" value="Configure the Allergies/Precautions box">
+		<param name="Local" value="ab614383.htm#Xab949681">
+		<param name="Name" value="Configure the Allergies/Precautions box">
+		<param name="Local" value="ab614383.htm#Xab659826">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="AllowAskConfirmationMessages parameter">
+		<param name="Name" value="Prompt users for confirmation">
+		<param name="Local" value="ac506421.htm#Xac517897">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="AllowCommunicateSuccessMessages parameter">
+		<param name="Name" value="Acknowledge completion of tasks">
+		<param name="Local" value="ac506445.htm#Xac517386">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Anesthesia Manager">
+		<param name="See Also" value="Anesthesia Manager">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="closing application between sessions">
+			<param name="Name" value="Configure application to exit between patients">
+			<param name="Local" value="ab428541.htm#Xab949075">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="preferences">
+			<param name="Name" value="Display the Demographics window when ending a session">
+			<param name="Local" value="ab437950.htm#Xab949183">
+			<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+			<param name="Local" value="ab690669.htm#Xab949122">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="printing at end of session">
+			<param name="Name" value="Printouts">
+			<param name="Local" value="ab473642.htm#Xab949622">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="quitting">
+			<param name="Name" value="Prompt users for confirmation when quitting an application">
+			<param name="Local" value="ab686994.htm#Xab949097">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="templates">
+			<param name="Name" value="Default Templates">
+			<param name="Local" value="ab535514.htm#Xab886708">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="APACHE II score">
+		<param name="See Also" value="APACHE II score">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="barometric pressure">
+			<param name="Name" value="Barometric pressure for APACHE II">
+			<param name="Local" value="ac506519.htm#Xac517024">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="encounter type">
+			<param name="Name" value="Templates, Sessions and Encounters">
+			<param name="Local" value="ab758626.htm#Xab945603">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="on flowsheets">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab698619">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Application closes between patients parameter">
+		<param name="Name" value="Configure application to exit between patients">
+		<param name="Local" value="ab428541.htm#Xab949075">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Apply access rights when discontinuing orders during patient transfers parameter">
+		<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+		<param name="Local" value="ab690669.htm#Xab949173">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="artifact rejection limits">
+		<param name="Name" value="Variable Properties">
+		<param name="Local" value="ab1137671.htm#Xab888645">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="assessments, nursing">
+		<param name="See Also" value="assessments, nursing">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="custom flowsheets">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab659848">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="flowsheet symbols">
+			<param name="Name" value="Assessments note symbol">
+			<param name="Local" value="ac506497.htm#Xac506495">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="height of dialog box">
+			<param name="Name" value="Assessments box height">
+			<param name="Local" value="ac517363.htm#Xac517370">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="note symbol">
+			<param name="Name" value="Assessments note symbol">
+			<param name="Local" value="ac506497.htm#Xac517345">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Assessmnt, DISPLAY, Number of Items parameter">
+		<param name="Name" value="Assessments box height">
+		<param name="Local" value="ac517363.htm#Xac517370">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="automatic log off">
+		<param name="Name" value="Basic Settings">
+		<param name="Local" value="ac566752.htm#Xac559720">
+		<param name="Name" value="Set automatic log off interval">
+		<param name="Local" value="ac487995.htm#Xac506101">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="automatic printouts">
+		<param name="Name" value="Set up printouts for Critical Care Manager">
+		<param name="Local" value="ab473347.htm#Xab682066">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="AutoReScheduleTime parameter">
+		<param name="Name" value="Time limit for documenting tasks">
+		<param name="Local" value="ac36137.htm#Xac332906">
+		<param name="Name" value="Time limit for documenting tasks">
+		<param name="Local" value="ac36137.htm#Xac517536">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="auto-scale, for trends">
+		<param name="Name" value="Create or edit a trend for use in any flowsheet">
+		<param name="Local" value="ab696897.htm#Xab696916">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="axes (trends)">
+		<param name="Name" value="Create or edit a trend for use in any flowsheet">
+		<param name="Local" value="ab696897.htm#Xab696913">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="band, patient information">
+		<param name="Name" value="Patient Information Band">
+		<param name="Local" value="ab582058.htm#Xab633476">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="barometric pressure, APACHE II">
+		<param name="Name" value="Barometric pressure for APACHE II">
+		<param name="Local" value="ac506519.htm#Xac517024">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="beacon, care">
+		<param name="Name" value="Add or remove the Care Beacon">
+		<param name="Local" value="ab654601.htm#Xab949721">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="beds and workstations">
+		<param name="Name" value="New Concepts in 7.2">
+		<param name="Local" value="aa493200.htm#Xaa498698">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Bypass fluids parameter">
+		<param name="Name" value="Configure bypass fluid families">
+		<param name="Local" value="ab643375.htm#Xab982496">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="CacheRefreshProbability parameter">
+		<param name="Name" value="Frequency of database access">
+		<param name="Local" value="ac36146.htm#Xac332915">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Care beacon">
+		<param name="Name" value="Add or remove the Care Beacon">
+		<param name="Local" value="ab654601.htm#Xab949721">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="CaseCheck, required data">
+		<param name="Name" value="Configure a Demographics section">
+		<param name="Local" value="ab435028.htm#Xab951223">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="CCOW options">
+		<param name="Name" value="Basic Settings">
+		<param name="Local" value="ac566752.htm#Xac584734">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Click'n Link Library">
+		<param name="Name" value="Select derived variables">
+		<param name="Local" value="ab615861.htm#Xab659827">
+		<param name="Name" value="Select variables for manual entry">
+		<param name="Local" value="ab624291.htm#Xab659829">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="clinical priorities, required">
+		<param name="Name" value="Configure required functional types and clinical priorities">
+		<param name="Local" value="ab448412.htm#Xab951381">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="clinical roles, default">
+		<param name="Name" value="Configure medical team roles">
+		<param name="Local" value="ab448409.htm#Xab633631">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="colors, interface">
+		<param name="See Also" value="colors, interface">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="edited real-time data">
+			<param name="Name" value="Set the color for edited real-time data">
+			<param name="Local" value="ab814624.htm#Xab949306">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="trends">
+			<param name="Name" value="Create or edit a trend for use in any flowsheet">
+			<param name="Local" value="ab696897.htm#Xab696926">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="commands">
+		<param name="See Also" value="commands">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="application">
+			<param name="See Also" value="commands, application">
+			</object>
+		<ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Add Orders (shortcut menu)">
+				<param name="Name" value="Session start time as the default starting time for orders">
+				<param name="Local" value="ac246077.htm#Xac517611">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Add-Ins menu">
+				<param name="Name" value="Add-Ins">
+				<param name="Local" value="ab586565.htm#Xab586597">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="configuring menus">
+				<param name="Name" value="Configure menus">
+				<param name="Local" value="ab788019.htm#Xab952354">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Macros menu">
+				<param name="Name" value="Add-Ins">
+				<param name="Local" value="ab586565.htm#Xab979514">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Modify Order (shortcut menu)">
+				<param name="Name" value="Modification of doses in medication and fluid orders">
+				<param name="Local" value="ac517410.htm#Xac517571">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Screen Layouts menu">
+				<param name="Name" value="Add-Ins">
+				<param name="Local" value="ab586565.htm#Xab633718">
+				</object>
+		</ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Customize">
+			<param name="See Also" value="commands, Customize">
+			</object>
+		<ul>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Add-Ins (Template menu)">
+				<param name="Name" value="Configure a macro as an add-in">
+				<param name="Local" value="ab586622.htm#Xab980399">
+				<param name="Name" value="Configure a screen layout as an add-in">
+				<param name="Local" value="ab586675.htm#Xab980403">
+				<param name="Name" value="Configure an external application as an add-in">
+				<param name="Local" value="ab586649.htm#Xab980401">
+				<param name="Name" value="Modify the properties of an add-in">
+				<param name="Local" value="ab649544.htm#Xab980405">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Advanced Settings (Workstation menu)">
+				<param name="Name" value="Open the Advanced Settings editor">
+				<param name="Local" value="ac487924.htm#Xac530045">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Allergies/Precautions box (Template menu, Configuration Parameters)">
+				<param name="Name" value="Configure the Allergies/Precautions box">
+				<param name="Local" value="ab614383.htm#Xab980251">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Auto-Printouts (Template menu, Configuration Parameters)">
+				<param name="Name" value="Set up printouts for Critical Care Manager">
+				<param name="Local" value="ab473347.htm#Xab980202">
+				<param name="Name" value="Set up printouts for Critical Care Manager">
+				<param name="Local" value="ab473347.htm#Xab949644">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Basic Settings (Workstation menu)">
+				<param name="Name" value="Hide patient data after user log off">
+				<param name="Local" value="ac486988.htm#Xac530043">
+				<param name="Name" value="Set automatic log off interval">
+				<param name="Local" value="ac487995.htm#Xac530053">
+				<param name="Name" value="Set the type of access to remote patients">
+				<param name="Local" value="ac584737.htm#Xac530041">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Demographics Editor (Template menu)">
+				<param name="Name" value="Configure a Demographics section">
+				<param name="Local" value="ab435028.htm#Xab980355">
+				<param name="Name" value="Configure medical team roles">
+				<param name="Local" value="ab448409.htm#Xab980359">
+				<param name="Name" value="Configure required events">
+				<param name="Local" value="ab948413.htm#Xab980357">
+				<param name="Name" value="Configure required functional types and clinical priorities">
+				<param name="Local" value="ab448412.htm#Xab980361">
+				<param name="Name" value="Export a demographics configuration">
+				<param name="Local" value="ab448361.htm#Xab980365">
+				<param name="Name" value="Import a Demographics configuration">
+				<param name="Local" value="ab696641.htm#Xab980363">
+				<param name="Name" value="Select sections for the Demographics window">
+				<param name="Local" value="ab450474.htm#Xab980353">
+				<param name="Name" value="Set the format of the patient name">
+				<param name="Local" value="ab452562.htm#Xab980369">
+				<param name="Name" value="Set the time limit for completing documentation">
+				<param name="Local" value="ab471641.htm#Xab980367">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Device Data Interruptions (Workstation menu)">
+				<param name="Name" value="Configure the system for device communication failures">
+				<param name="Local" value="ac536625.htm#Xac536629">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Event Sets and Macros (Workstation menu)">
+				<param name="Name" value="Configure an event set as a macro">
+				<param name="Local" value="ac493155.htm#Xac530008">
+				<param name="Name" value="Create or edit an event set">
+				<param name="Local" value="ac491171.htm#Xac530010">
+				<param name="Name" value="Delete an event set or macro">
+				<param name="Local" value="ac487788.htm#Xac517335">
+				<param name="Name" value="Delete an event set or macro">
+				<param name="Local" value="ac487788.htm#Xac530015">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Events (Template menu)">
+				<param name="Name" value="Add an event set to the library">
+				<param name="Local" value="ab610035.htm#Xab980329">
+				<param name="Name" value="Add one or more events to the events library">
+				<param name="Local" value="ab585812.htm#Xab980317">
+				<param name="Name" value="Allow users to delete events">
+				<param name="Local" value="ab585897.htm#Xab980325">
+				<param name="Name" value="Create a new event and add it to the events library">
+				<param name="Local" value="ab585829.htm#Xab980319">
+				<param name="Name" value="Include the date in the Events log">
+				<param name="Local" value="ab585876.htm#Xab980323">
+				<param name="Name" value="Remove one or more events from the library">
+				<param name="Local" value="ab948192.htm#Xab980321">
+				<param name="Name" value="Select default supervisory event type">
+				<param name="Local" value="ab585912.htm#Xab980331">
+				<param name="Name" value="Set the default tab in the Add Events window">
+				<param name="Local" value="ab610104.htm#Xab980327">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Exit (File menu)">
+				<param name="Name" value="Quit Customize">
+				<param name="Local" value="ab475675.htm#Xab980119">
+				<param name="Name" value="Quit Customize">
+				<param name="Local" value="ab475675.htm#Xab886761">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Flowsheets (Template menu)">
+				<param name="Name" value="Change the order of flowsheets in the application">
+				<param name="Local" value="ab1080420.htm#Xab1083612">
+				<param name="Name" value="Configure available flowsheet resolutions">
+				<param name="Local" value="ab648156.htm#Xab980371">
+				<param name="Name" value="Configure drip dose display">
+				<param name="Local" value="ab648656.htm#Xab980381">
+				<param name="Name" value="Configure how orders are displayed">
+				<param name="Local" value="ab648648.htm#Xab980379">
+				<param name="Name" value="Configure row filters">
+				<param name="Local" value="ab648962.htm#Xab980383">
+				<param name="Name" value="Configure the option to validate real-time data">
+				<param name="Local" value="ab648598.htm#Xab980375">
+				<param name="Name" value="Configure the position of the current time column">
+				<param name="Local" value="ab648532.htm#Xab980373">
+				<param name="Name" value="Create a custom flowsheet and set basic properties">
+				<param name="Local" value="ab649285.htm#Xab980385">
+				<param name="Name" value="Delete a custom flowsheet">
+				<param name="Local" value="ab1083584.htm#Xab1083538">
+				<param name="Name" value="Modify basic properties of a standard or custom flowsheet">
+				<param name="Local" value="ab697127.htm#Xab980387">
+				<param name="Name" value="Show total or incremental values for cumulative fluid output">
+				<param name="Local" value="ab648647.htm#Xab980377">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Fluid Balance (Template menu)">
+				<param name="Name" value="Configure the fluid balance window">
+				<param name="Local" value="ab643467.htm#Xab980333">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Fluids Balance (Template menu)">
+				<param name="Name" value="Configure bypass fluid families">
+				<param name="Local" value="ab643375.htm#Xab980335">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Intervals and Shifts (Template menu, Configuration Parameters)">
+				<param name="Name" value="Configure the daily shift schedule">
+				<param name="Local" value="ab887094.htm#Xab980196">
+				<param name="Name" value="Set the capacity of the emergency data reserve">
+				<param name="Local" value="ab692361.htm#Xab980191">
+				<param name="Name" value="Set the real-time data interval">
+				<param name="Local" value="ab690101.htm#Xab980187">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Medication Summary (Template menu)">
+				<param name="Name" value="Configure the Medications Summary">
+				<param name="Local" value="ab951184.htm#Xab951200">
+				<param name="Name" value="Configure the Medications Summary">
+				<param name="Local" value="ab951184.htm#Xab980351">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Menus and Toolbar (Template menu)">
+				<param name="Name" value="Add buttons to the toolbar">
+				<param name="Local" value="ab788080.htm#Xab980410">
+				<param name="Name" value="Configure menus">
+				<param name="Local" value="ab788019.htm#Xab980408">
+				<param name="Name" value="Edit the properties of buttons on the toolbar">
+				<param name="Local" value="ab788106.htm#Xab980412">
+				<param name="Name" value="Rearrange buttons on the toolbar">
+				<param name="Local" value="ab788144.htm#Xab980420">
+				<param name="Name" value="Remove buttons from the toolbar">
+				<param name="Local" value="ab788127.htm#Xab980414">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Open (File menu)">
+				<param name="Name" value="Open a template for editing">
+				<param name="Local" value="ab474659.htm#Xab980121">
+				<param name="Name" value="Open a template for editing">
+				<param name="Local" value="ab474659.htm#Xab946271">
+				<param name="Name" value="Set the encounter type">
+				<param name="Local" value="ab593313.htm#Xab948980">
+				<param name="Name" value="Set the encounter type">
+				<param name="Local" value="ab593313.htm#Xab980151">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Patient Summary (Template menu)">
+				<param name="Name" value="Add a laboratory table">
+				<param name="Local" value="ab587026.htm#Xab980343">
+				<param name="Name" value="Add a real-time data table">
+				<param name="Local" value="ab586997.htm#Xab980341">
+				<param name="Name" value="Add or remove a parameter from a data table">
+				<param name="Local" value="ab587057.htm#Xab980347">
+				<param name="Name" value="Change the order of data tables">
+				<param name="Local" value="ab587045.htm#Xab980345">
+				<param name="Name" value="Configure sections for a report">
+				<param name="Local" value="ab586969.htm#Xab980339">
+				<param name="Name" value="Configure viewing periods for the report">
+				<param name="Local" value="ab586933.htm#Xab980337">
+				<param name="Name" value="Delete a table">
+				<param name="Local" value="ab587068.htm#Xab980349">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Preferences (Template menu, Configuration Parameters)">
+				<param name="Name" value="Add or remove the Care Beacon">
+				<param name="Local" value="ab654601.htm#Xab980264">
+				<param name="Name" value="Add or remove the New Orders icon">
+				<param name="Local" value="ab614416.htm#Xab980258">
+				<param name="Name" value="Allow users to edit device data">
+				<param name="Local" value="ab814583.htm#Xab980162">
+				<param name="Name" value="Allow users to edit device data">
+				<param name="Local" value="ab814583.htm#Xab949247">
+				<param name="Name" value="Allow users to edit validated real-time data">
+				<param name="Local" value="ab814600.htm#Xab980167">
+				<param name="Name" value="Allow users to edit validated real-time data">
+				<param name="Local" value="ab814600.htm#Xab949285">
+				<param name="Name" value="Configure application to exit between patients">
+				<param name="Local" value="ab428541.htm#Xab980092">
+				<param name="Name" value="Configure the Home screen">
+				<param name="Local" value="ab814908.htm#Xab979554">
+				<param name="Name" value="Display the Demographics window when ending a session">
+				<param name="Local" value="ab437950.htm#Xab979538">
+				<param name="Name" value="Print when transferring or discharging a patient">
+				<param name="Local" value="ab473370.htm#Xab980232">
+				<param name="Name" value="Prompt users for confirmation when quitting an application">
+				<param name="Local" value="ab686994.htm#Xab979564">
+				<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+				<param name="Local" value="ab690669.htm#Xab979559">
+				<param name="Name" value="Require a log-on to start a new session">
+				<param name="Local" value="ab949028.htm#Xab980105">
+				<param name="Name" value="Set the capacity of the emergency data reserve">
+				<param name="Local" value="ab692361.htm#Xab949577">
+				<param name="Name" value="Set the color for edited real-time data">
+				<param name="Local" value="ab814624.htm#Xab949306">
+				<param name="Name" value="Set the color for edited real-time data">
+				<param name="Local" value="ab814624.htm#Xab980172">
+				<param name="Name" value="Set the default status of alerts">
+				<param name="Local" value="ab763484.htm#Xab949328">
+				<param name="Name" value="Set the default status of alerts">
+				<param name="Local" value="ab763484.htm#Xab980181">
+				<param name="Name" value="Set the real-time data interval">
+				<param name="Local" value="ab690101.htm#Xab949568">
+				<param name="Name" value="Transfer or discharge patient after printing">
+				<param name="Local" value="ab841393.htm#Xab980237">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Protocols (Template menu)">
+				<param name="Name" value="Add one or more protocols to the library">
+				<param name="Local" value="ab586166.htm#Xab980315">
+				<param name="Name" value="Configure a default protocol">
+				<param name="Local" value="ab610140.htm#Xab980309">
+				<param name="Name" value="Configure items for the Equipment window">
+				<param name="Local" value="ab642715.htm#Xab980311">
+				<param name="Name" value="Configure items for the QA Indicators window">
+				<param name="Local" value="ab642792.htm#Xab980313">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Real-Time Variables (Template menu)">
+				<param name="Name" value="Adjust the order of variables on the flowsheet">
+				<param name="Local" value="ab624294.htm#Xab982184">
+				<param name="Name" value="Choose what to display on the Vital Signs bar">
+				<param name="Local" value="ab549545.htm#Xab980307">
+				<param name="Name" value="Configure a device driver">
+				<param name="Local" value="ab641737.htm#Xab980276">
+				<param name="Name" value="Configure a device driver">
+				<param name="Local" value="ab641737.htm#Xab949745">
+				<param name="Name" value="Configure variable properties">
+				<param name="Local" value="ab947610.htm#Xab980286">
+				<param name="Name" value="Review the real-time variables list">
+				<param name="Local" value="ab681524.htm#Xab980302">
+				<param name="Name" value="Select derived variables">
+				<param name="Local" value="ab615861.htm#Xab980280">
+				<param name="Name" value="Select derived variables">
+				<param name="Local" value="ab615861.htm#Xab949765">
+				<param name="Name" value="Select variables for each device">
+				<param name="Local" value="ab232614.htm#Xab980278">
+				<param name="Name" value="Select variables for each device">
+				<param name="Local" value="ab232614.htm#Xab949755">
+				<param name="Name" value="Select variables for manual entry">
+				<param name="Local" value="ab624291.htm#Xab980282">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Save As (File menu)">
+				<param name="Name" value="Create a new template">
+				<param name="Local" value="ab637564.htm#Xab980149">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Save (File menu)">
+				<param name="Name" value="Save a template">
+				<param name="Local" value="ab680094.htm#Xab980116">
+				<param name="Name" value="Save a template">
+				<param name="Local" value="ab680094.htm#Xab948997">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Timers (Template menu)">
+				<param name="Name" value="Change a timer window title and/or command">
+				<param name="Local" value="ab607250.htm#Xab980395">
+				<param name="Name" value="Create a timer">
+				<param name="Local" value="ab607233.htm#Xab980393">
+				<param name="Name" value="Remove a timer">
+				<param name="Local" value="ab698791.htm#Xab980397">
+				</object>
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Trends (Template menu)">
+				<param name="Name" value="Create or edit a trend for use in any flowsheet">
+				<param name="Local" value="ab696897.htm#Xab980389">
+				<param name="Name" value="Delete a trend">
+				<param name="Local" value="ab705404.htm#Xab980391">
+				</object>
+		</ul>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="common choices, encounter type">
+		<param name="Name" value="Templates, Sessions and Encounters">
+		<param name="Local" value="ab758626.htm#Xab945595">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Concurrency, configuring as add-in">
+		<param name="Name" value="Configure an external application as an add-in">
+		<param name="Local" value="ab586649.htm#Xab633720">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="confirmation messages">
+		<param name="Name" value="Acknowledge completion of tasks">
+		<param name="Local" value="ac506445.htm#Xac517386">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="copy forward, real-time data">
+		<param name="Name" value="Variable Properties">
+		<param name="Local" value="ab1137671.htm#Xab1130535">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="creating">
+		<param name="See Also" value="creating">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="event sets">
+			<param name="Name" value="Create or edit an event set">
+			<param name="Local" value="ac491171.htm#Xac517168">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="events">
+			<param name="Name" value="Create a new event and add it to the events library">
+			<param name="Local" value="ab585829.htm#Xab950836">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="flowsheet sections">
+			<param name="Name" value="Create or edit a tabular flowsheet section">
+			<param name="Local" value="ab586493.htm#Xab951929">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="flowsheets">
+			<param name="Name" value="Create a custom flowsheet and set basic properties">
+			<param name="Local" value="ab649285.htm#Xab951895">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="macros">
+			<param name="Name" value="Event Sets and Macros">
+			<param name="Local" value="ac517144.htm#Xac498332">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="timers">
+			<param name="Name" value="Create a timer">
+			<param name="Local" value="ab607233.htm#Xab952072">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="trends">
+			<param name="Name" value="Create or edit a trend for use in any flowsheet">
+			<param name="Local" value="ab696897.htm#Xab951992">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Critical Care Manager">
+		<param name="See Also" value="Critical Care Manager">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="auto-printouts">
+			<param name="Name" value="Printouts">
+			<param name="Local" value="ab473642.htm#Xab949605">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="closing between sessions">
+			<param name="Name" value="Configure application to exit between patients">
+			<param name="Local" value="ab428541.htm#Xab949075">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="date in Events Log">
+			<param name="Name" value="Include the date in the Events log">
+			<param name="Local" value="ab585876.htm#Xab585892">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="preferences">
+			<param name="Name" value="Display the Demographics window when ending a session">
+			<param name="Local" value="ab437950.htm#Xab949183">
+			<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+			<param name="Local" value="ab690669.htm#Xab949122">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="quitting">
+			<param name="Name" value="Prompt users for confirmation when quitting an application">
+			<param name="Local" value="ab686994.htm#Xab949097">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="recommended device data interval">
+			<param name="Name" value="Set the real-time data interval">
+			<param name="Local" value="ab690101.htm#Xab690099">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="shift schedule">
+			<param name="Name" value="Configure the daily shift schedule">
+			<param name="Local" value="ab887094.htm#Xab682055">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="templates">
+			<param name="Name" value="Default Templates">
+			<param name="Local" value="ab535514.htm#Xab886708">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Customize">
+		<param name="See Also" value="Customize">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="new features">
+			<param name="Name" value="New Features in Customize">
+			<param name="Local" value="aa509702.htm#Xaa509704">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="quitting">
+			<param name="Name" value="Quit Customize">
+			<param name="Local" value="ab475675.htm#Xab886761">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="starting">
+			<param name="Name" value="Start Customize">
+			<param name="Local" value="ab535548.htm#Xab886756">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="system right">
+			<param name="Name" value="Starting and Quitting Customize">
+			<param name="Local" value="ab761719.htm#Xab886751">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Daily Shifts parameter">
+		<param name="Name" value="Configure the daily shift schedule">
+		<param name="Local" value="ab887094.htm#Xab949587">
+		<param name="Name" value="Shifts and Time Intervals">
+		<param name="Local" value="ab473644.htm#Xab949558">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="database">
+		<param name="See Also" value="database">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="frequency of access">
+			<param name="Name" value="Frequency of database access">
+			<param name="Local" value="ac36146.htm#Xac517111">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="performance options">
+			<param name="Name" value="Performance Options Related to the Database">
+			<param name="Local" value="ac458342.htm#Xac531524">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="refresh rate">
+			<param name="Name" value="Screen refresh rate/scroll speed">
+			<param name="Local" value="ac296024.htm#Xac517129">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="daylight savings time message">
+		<param name="Name" value="Show or hide the daylight savings time (DST) message">
+		<param name="Local" value="ac506462.htm#Xac506461">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="default protocol">
+		<param name="Name" value="Configure a default protocol">
+		<param name="Local" value="ab610140.htm#Xab950410">
+		<param name="Name" value="Protocols">
+		<param name="Local" value="ab586120.htm#Xab982212">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Default Viewing Period parameter">
+		<param name="Name" value="Configure the fluid balance window">
+		<param name="Local" value="ab643467.htm#Xab982494">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="deleting flowsheets">
+		<param name="Name" value="Delete a custom flowsheet">
+		<param name="Local" value="ab1083584.htm#Xab1083532">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="deleting">
+		<param name="See Also" value="deleting">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="event sets">
+			<param name="Name" value="Delete an event set or macro">
+			<param name="Local" value="ac487788.htm#Xac517335">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="events">
+			<param name="Name" value="Allow users to delete events">
+			<param name="Local" value="ab585897.htm#Xab950910">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="flowsheet sections">
+			<param name="Name" value="Delete a flowsheet section">
+			<param name="Local" value="ab1083675.htm#Xab1083736">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="macros">
+			<param name="Name" value="Delete an event set or macro">
+			<param name="Local" value="ac487788.htm#Xac517335">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="tables in Patient Summary">
+			<param name="Name" value="Delete a table">
+			<param name="Local" value="ab587068.htm#Xab951156">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="trends">
+			<param name="Name" value="Delete a trend">
+			<param name="Local" value="ab705404.htm#Xab952008">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Demographics">
+		<param name="See Also" value="Demographics">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Demographics">
+			<param name="Local" value="ab434946.htm#Xab889026">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="content">
+			<param name="Name" value="Select sections for the Demographics window">
+			<param name="Local" value="ab450474.htm#Xab951213">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="exporting configuration">
+			<param name="Name" value="Export a demographics configuration">
+			<param name="Local" value="ab448361.htm#Xab951417">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="importing configuration">
+			<param name="Name" value="Import a Demographics configuration">
+			<param name="Local" value="ab696641.htm#Xab951399">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="medical team roles">
+			<param name="Name" value="Configure medical team roles">
+			<param name="Local" value="ab448409.htm#Xab951365">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="opening automatically">
+			<param name="Name" value="Display the Demographics window when ending a session">
+			<param name="Local" value="ab437950.htm#Xab949183">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="patient name format">
+			<param name="Name" value="Set the format of the patient name">
+			<param name="Local" value="ab452562.htm#Xab951539">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="required data">
+			<param name="Name" value="Configure required events">
+			<param name="Local" value="ab948413.htm#Xab951351">
+			<param name="Name" value="Configure required functional types and clinical priorities">
+			<param name="Local" value="ab448412.htm#Xab951381">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="section content">
+			<param name="Name" value="Configure a Demographics section">
+			<param name="Local" value="ab435028.htm#Xab951223">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="time limit for completing">
+			<param name="Name" value="Set the time limit for completing documentation">
+			<param name="Local" value="ab471641.htm#Xab951427">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="device configuration">
+		<param name="See Also" value="device configuration">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="communication failure">
+			<param name="Name" value="Device Communication Failures">
+			<param name="Local" value="ac506666.htm#Xac536620">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="data collection interval">
+			<param name="Name" value="Set the capacity of the emergency data reserve">
+			<param name="Local" value="ab692361.htm#Xab949577">
+			<param name="Name" value="Set the real-time data interval">
+			<param name="Local" value="ab690101.htm#Xab949568">
+			<param name="Name" value="Shifts and Time Intervals">
+			<param name="Local" value="ab473644.htm#Xab949539">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="device communication failure">
+			<param name="Name" value="Configure the system for device communication failures">
+			<param name="Local" value="ac536625.htm#Xac536627">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="drivers for devices">
+			<param name="Name" value="Configure a device driver">
+			<param name="Local" value="ab641737.htm#Xab949745">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="editing of data">
+			<param name="Name" value="Allow users to edit device data">
+			<param name="Local" value="ab814583.htm#Xab949247">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="selecting drivers">
+			<param name="Name" value="Select derived variables">
+			<param name="Local" value="ab615861.htm#Xab949765">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="variables, real-time">
+			<param name="Name" value="Select variables for each device">
+			<param name="Local" value="ab232614.htm#Xab949755">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Device data can be edited parameter">
+		<param name="Name" value="Allow users to edit device data">
+		<param name="Local" value="ab814583.htm#Xab814594">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="diagnoses">
+		<param name="See Also" value="diagnoses">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="clinical priorities">
+			<param name="Name" value="Configure required functional types and clinical priorities">
+			<param name="Local" value="ab448412.htm#Xab951381">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="functional types">
+			<param name="Name" value="Configure required functional types and clinical priorities">
+			<param name="Local" value="ab448412.htm#Xab951381">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="digits shown for flowsheet values">
+		<param name="Name" value="Number of digits for rounding flowsheet values">
+		<param name="Local" value="ac517841.htm#Xac517839">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="discharging patients">
+		<param name="See Also" value="discharging patients">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="preferences">
+			<param name="Name" value="Display the Demographics window when ending a session">
+			<param name="Local" value="ab437950.htm#Xab949183">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="printing">
+			<param name="Name" value="Print when transferring or discharging a patient">
+			<param name="Local" value="ab473370.htm#Xab949658">
+			<param name="Name" value="Transfer or discharge patient after printing">
+			<param name="Local" value="ab841393.htm#Xab949667">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="discontinuing orders">
+		<param name="See Also" value="discontinuing orders">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="access rights">
+			<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+			<param name="Local" value="ab690669.htm#Xab949173">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="prompt when transferring patient">
+			<param name="Name" value="Starting and Ending Sessions">
+			<param name="Local" value="ab818193.htm#Xab659749">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="documenting orders">
+		<param name="See Also" value="documenting orders">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="after end time">
+			<param name="Name" value="Documentation limit for finished orders">
+			<param name="Local" value="ac248973.htm#Xac517551">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="decimals in doses">
+			<param name="Name" value="Decimal places in doses and volumes">
+			<param name="Local" value="ac475219.htm#Xac517820">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="default time in dialog box">
+			<param name="Name" value="Default time for documenting a task">
+			<param name="Local" value="ac485690.htm#Xac517625">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="dose ranges as limits">
+			<param name="Name" value="Doses outside reference range">
+			<param name="Local" value="ac473863.htm#Xac517483">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="limit for documenting early">
+			<param name="Name" value="Early documentation limit">
+			<param name="Local" value="ac248691.htm#Xac517566">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="limit for documenting late">
+			<param name="Name" value="Time limit for documenting tasks">
+			<param name="Local" value="ac36137.htm#Xac517536">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="doses, outside reference range">
+		<param name="Name" value="Doses outside reference range">
+		<param name="Local" value="ac473863.htm#Xac498824">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="drivers. See devices.">
+		<param name="See Also" value="drivers. See devices.">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Edited Data Color parameter">
+		<param name="Name" value="Set the color for edited real-time data">
+		<param name="Local" value="ab814624.htm#Xab949306">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="editing">
+		<param name="See Also" value="editing">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="device data">
+			<param name="Name" value="Preferences for Real-Time Data">
+			<param name="Local" value="ab813038.htm#Xab633425">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="validated data">
+			<param name="Name" value="Preferences for Real-Time Data">
+			<param name="Local" value="ab813038.htm#Xab633426">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Emergency Data Reserve parameter">
+		<param name="Name" value="Set the capacity of the emergency data reserve">
+		<param name="Local" value="ab692361.htm#Xab949577">
+		<param name="Name" value="Shifts and Time Intervals">
+		<param name="Local" value="ab473644.htm#Xab982484">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="encounter types">
+		<param name="See Also" value="encounter types">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="common choices">
+			<param name="Name" value="Templates, Sessions and Encounters">
+			<param name="Local" value="ab758626.htm#Xab945595">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="setting in templates">
+			<param name="Name" value="Set the encounter type">
+			<param name="Local" value="ab593313.htm#Xab948943">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="encounters">
+		<param name="See Also" value="encounters">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="APACHE II">
+			<param name="Name" value="Templates, Sessions and Encounters">
+			<param name="Local" value="ab758626.htm#Xab945603">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="defined">
+			<param name="Name" value="Templates, Sessions and Encounters">
+			<param name="Local" value="ab758626.htm#Xab945004">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="equipment lists, perioperative">
+		<param name="See Also" value="equipment lists, perioperative">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="on flowsheets">
+			<param name="Name" value="Equipment checklists on flowsheets">
+			<param name="Local" value="ac506535.htm#Xac506537">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab659853">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="protocol for">
+			<param name="Name" value="Configure items for the Equipment window">
+			<param name="Local" value="ab642715.htm#Xab950440">
+			<param name="Name" value="Protocols">
+			<param name="Local" value="ab586120.htm#Xab982213">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="event sets">
+		<param name="See Also" value="event sets">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Event Sets and Macros">
+			<param name="Local" value="ac517144.htm#Xac517153">
+			<param name="Name" value="Event Sets and Macros">
+			<param name="Local" value="ac517144.htm#Xac498332">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="creating">
+			<param name="Name" value="Create or edit an event set">
+			<param name="Local" value="ac491171.htm#Xac517168">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="deleting">
+			<param name="Name" value="Delete an event set or macro">
+			<param name="Local" value="ac487788.htm#Xac517335">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="library">
+			<param name="Name" value="Add an event set to the library">
+			<param name="Local" value="ab610035.htm#Xab950958">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="macros, configuring as">
+			<param name="Name" value="Configure an event set as a macro">
+			<param name="Local" value="ac493155.htm#Xac517340">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="order of events">
+			<param name="Name" value="Create or edit an event set">
+			<param name="Local" value="ac491171.htm#Xac487772">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="events">
+		<param name="See Also" value="events">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Event Sets and Macros">
+			<param name="Local" value="ac517144.htm#Xac517153">
+			<param name="Name" value="Events">
+			<param name="Local" value="ab585769.htm#Xab888732">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="creating">
+			<param name="Name" value="Create a new event and add it to the events library">
+			<param name="Local" value="ab585829.htm#Xab950836">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="date in Events window">
+			<param name="Name" value="Include the date in the Events log">
+			<param name="Local" value="ab585876.htm#Xab950877">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="default tab in Events window">
+			<param name="Name" value="Set the default tab in the Add Events window">
+			<param name="Local" value="ab610104.htm#Xab950950">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="deleting">
+			<param name="Name" value="Allow users to delete events">
+			<param name="Local" value="ab585897.htm#Xab950910">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="event types">
+			<param name="Name" value="Events">
+			<param name="Local" value="ab585769.htm#Xab633547">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="library in template">
+			<param name="Name" value="Add one or more events to the events library">
+			<param name="Local" value="ab585812.htm#Xab950826">
+			<param name="Name" value="Remove one or more events from the library">
+			<param name="Local" value="ab948192.htm#Xab948191">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="macros to insert">
+			<param name="Name" value="Configure an event set as a macro">
+			<param name="Local" value="ac493155.htm#Xac517340">
+			<param name="Name" value="Delete an event set or macro">
+			<param name="Local" value="ac487788.htm#Xac517335">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="removing">
+			<param name="Name" value="Remove one or more events from the library">
+			<param name="Local" value="ab948192.htm#Xab950848">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="required">
+			<param name="Name" value="Configure required events">
+			<param name="Local" value="ab948413.htm#Xab951351">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="supervisor">
+			<param name="Name" value="Select default supervisory event type">
+			<param name="Local" value="ab585912.htm#Xab950970">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="exporting demographics configurations">
+		<param name="Name" value="Export a demographics configuration">
+		<param name="Local" value="ab448361.htm#Xab633645">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="F5-F7 keys, for timers">
+		<param name="Name" value="Timers">
+		<param name="Local" value="ab649482.htm#Xab607209">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="flowsheets">
+		<param name="See Also" value="flowsheets">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Creating and Modifying Flowsheets">
+			<param name="Local" value="ab648776.htm#Xab889279">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="APACHE II score">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab698619">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="autoscrolling, turning off">
+			<param name="Name" value="Create a custom flowsheet and set basic properties">
+			<param name="Local" value="ab649285.htm#Xab982467">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="configuration options">
+			<param name="Name" value="Configuration Options for All Flowsheets">
+			<param name="Local" value="ab779932.htm#Xab889235">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="creating">
+			<param name="Name" value="Create a custom flowsheet and set basic properties">
+			<param name="Local" value="ab649285.htm#Xab951895">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="creating sections">
+			<param name="Name" value="Create or edit a tabular flowsheet section">
+			<param name="Local" value="ab586493.htm#Xab951929">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="custom">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab889225">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="deleting">
+			<param name="Name" value="Delete a custom flowsheet">
+			<param name="Local" value="ab1083584.htm#Xab1083532">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="deleting sections">
+			<param name="Name" value="Delete a flowsheet section">
+			<param name="Local" value="ab1083675.htm#Xab1083736">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="diagnostic tests">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab659852">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="drips, data display">
+			<param name="Name" value="Configure drip dose display">
+			<param name="Local" value="ab648656.htm#Xab951861">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="equipment lists, perioperative">
+			<param name="Name" value="Equipment checklists on flowsheets">
+			<param name="Local" value="ac506535.htm#Xac517052">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab659853">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="fluid output, data display">
+			<param name="Name" value="Show total or incremental values for cumulative fluid output">
+			<param name="Local" value="ab648647.htm#Xab951839">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Fluids flowsheet">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab645872">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Glasgow Coma score">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab698619">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Laboratory flowsheet">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab645875">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="laboratory tests">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab659852">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="layout">
+			<param name="Name" value="Rearrange sections on a custom flowsheet">
+			<param name="Local" value="ab649468.htm#Xab952022">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Medications flowsheet">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab633668">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="nursing care">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab659850">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="order name display">
+			<param name="Name" value="Configure how orders are displayed">
+			<param name="Local" value="ab648648.htm#Xab951851">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="position of current time column">
+			<param name="Name" value="Configure the position of the current time column">
+			<param name="Local" value="ab648532.htm#Xab951815">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="properties">
+			<param name="Name" value="Modify basic properties of a standard or custom flowsheet">
+			<param name="Local" value="ab697127.htm#Xab951917">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="QA Indicators, perioperative">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab659854">
+			<param name="Name" value="Quality assurance criteria on flowsheets">
+			<param name="Local" value="ac506544.htm#Xac517080">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Real-Time Variables flowsheet">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab1071465">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="reordering">
+			<param name="Name" value="Change the order of flowsheets in the application">
+			<param name="Local" value="ab1080420.htm#Xab1083606">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="resolutions, viewing">
+			<param name="Name" value="Configure available flowsheet resolutions">
+			<param name="Local" value="ab648156.htm#Xab951803">
+			<param name="Name" value="Modify basic properties of a standard or custom flowsheet">
+			<param name="Local" value="ab697127.htm#Xab697144">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="respiratory care">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab659851">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="row filters">
+			<param name="Name" value="Configure row filters">
+			<param name="Local" value="ab648962.htm#Xab951875">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="standard options">
+			<param name="Name" value="Configure available flowsheet resolutions">
+			<param name="Local" value="ab648156.htm#Xab648155">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="trends">
+			<param name="Name" value="Create or edit a trend section on a flowsheet">
+			<param name="Local" value="ab586540.htm#Xab951982">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="fluid balance">
+		<param name="See Also" value="fluid balance">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Fluid Balance Window">
+			<param name="Local" value="ab859346.htm#Xab859347">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="cardiac bypass">
+			<param name="Name" value="Configure bypass fluid families">
+			<param name="Local" value="ab643375.htm#Xab951035">
+			<param name="Name" value="Fluid Balance Window">
+			<param name="Local" value="ab859346.htm#Xab982470">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="configuring window">
+			<param name="Name" value="Configure the fluid balance window">
+			<param name="Local" value="ab643467.htm#Xab951012">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="critical care">
+			<param name="Name" value="Fluid Balance Window">
+			<param name="Local" value="ab859346.htm#Xab633551">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="fluid balance on Vital Signs bar">
+			<param name="Name" value="Choose what to display on the Vital Signs bar">
+			<param name="Local" value="ab549545.htm#Xab982492">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="general anesthesia">
+			<param name="Name" value="Fluid Balance Window">
+			<param name="Local" value="ab859346.htm#Xab633552">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="shifts for">
+			<param name="Name" value="Shifts and Time Intervals">
+			<param name="Local" value="ab473644.htm#Xab949558">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Fluid intake and output parameter">
+		<param name="Name" value="Choose what to display on the Vital Signs bar">
+		<param name="Local" value="ab549545.htm#Xab1147773">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Fluids flowsheet">
+		<param name="Name" value="Flowsheets">
+		<param name="Local" value="ab1061173.htm#Xab645872">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="fluids">
+		<param name="See Also" value="fluids">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="base solution volumes">
+			<param name="Name" value="IV base solution volumes">
+			<param name="Local" value="ac475052.htm#Xac517802">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="blood bag ID">
+			<param name="Name" value="Required ID number for blood bags">
+			<param name="Local" value="ac500383.htm#Xac517815">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="cumulative output">
+			<param name="Name" value="Show total or incremental values for cumulative fluid output">
+			<param name="Local" value="ab648647.htm#Xab951839">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="decimals in volumes">
+			<param name="Name" value="Decimal places in doses and volumes">
+			<param name="Local" value="ac475219.htm#Xac517820">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="dose ranges as limits">
+			<param name="Name" value="Doses outside reference range">
+			<param name="Local" value="ac473863.htm#Xac517483">
+			<param name="Name" value="Modification of doses in medication and fluid orders">
+			<param name="Local" value="ac517410.htm#Xac517571">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="drips, data display">
+			<param name="Name" value="Configure drip dose display">
+			<param name="Local" value="ab648656.htm#Xab951861">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="extending manually">
+			<param name="Name" value="Memo for manual extensions of continuous V fluid orders">
+			<param name="Local" value="ac513766.htm#Xac517511">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="output, data display">
+			<param name="Name" value="Show total or incremental values for cumulative fluid output">
+			<param name="Local" value="ab648647.htm#Xab951839">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Freeze flowsheet (no Auto-scrolling) by default parameter">
+		<param name="Name" value="Create a custom flowsheet and set basic properties">
+		<param name="Local" value="ab649285.htm#Xab982467">
+		<param name="Name" value="Modify basic properties of a standard or custom flowsheet">
+		<param name="Local" value="ab697127.htm#Xab982465">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="functional types, required">
+		<param name="Name" value="Configure required functional types and clinical priorities">
+		<param name="Local" value="ab448412.htm#Xab951381">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Future Time parameter">
+		<param name="Name" value="Early documentation limit">
+		<param name="Local" value="ac248691.htm#Xac517566">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Glasgow Coma score, on flowsheets">
+		<param name="Name" value="Flowsheets">
+		<param name="Local" value="ab1061173.htm#Xab698619">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="grid lines, trends">
+		<param name="Name" value="Create or edit a trend for use in any flowsheet">
+		<param name="Local" value="ab696897.htm#Xab696917">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="HideDSTPrescriptionMsg parameter">
+		<param name="Name" value="Show or hide the daylight savings time (DST) message">
+		<param name="Local" value="ac506462.htm#Xac517379">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="HIS data">
+		<param name="See Also" value="HIS data">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Demographics">
+			<param name="Name" value="Configure a Demographics section">
+			<param name="Local" value="ab435028.htm#Xab533429">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="icon for">
+			<param name="Name" value="Add or remove the HIS icon">
+			<param name="Local" value="ab982101.htm#Xab982102">
+			<param name="Name" value="Configure the patient summary for export to the HIS">
+			<param name="Local" value="ab1195655.htm#Xab1195697">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Home Screen configuration">
+		<param name="Name" value="Configure the Home screen">
+		<param name="Local" value="ab814908.htm#Xab979543">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="HoursExtended parameter">
+		<param name="Name" value="Order extension period">
+		<param name="Local" value="ac358160.htm#Xac517561">
+		<param name="Name" value="Order extension period">
+		<param name="Local" value="ac358160.htm#Xac358161">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="HoursUsedToFilterOrdersToExtend parameter">
+		<param name="Name" value="Extend order time limit">
+		<param name="Local" value="ac435815.htm#Xac517556">
+		<param name="Name" value="Extend order time limit">
+		<param name="Local" value="ac435815.htm#Xac475709">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="icons, Patient Information Band">
+		<param name="Name" value="Patient Information Band">
+		<param name="Local" value="ab582058.htm#Xab887147">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Include all time views parameter">
+		<param name="Name" value="Configure the fluid balance window">
+		<param name="Local" value="ab643467.htm#Xab982495">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="INITIME parameter">
+		<param name="Name" value="Default starting time for orders added during a session">
+		<param name="Local" value="ac37521.htm#Xac517531">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="IsBloodBagIdCompulsory parameter">
+		<param name="Name" value="Required ID number for blood bags">
+		<param name="Local" value="ac500383.htm#Xac517815">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="IVBaseSolutions parameter">
+		<param name="Name" value="IV base solution volumes">
+		<param name="Local" value="ac475052.htm#Xac517802">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="key events">
+		<param name="Name" value="Configure required events">
+		<param name="Local" value="ab948413.htm#Xab533441">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="laboratory and diagnostic tests, on flowsheets">
+		<param name="Name" value="Flowsheets">
+		<param name="Local" value="ab1061173.htm#Xab659852">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Laboratory flowsheet">
+		<param name="Name" value="Flowsheets">
+		<param name="Local" value="ab1061173.htm#Xab645875">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="laboratory real-time variables">
+		<param name="Name" value="Devices and Real-Time Variables">
+		<param name="Local" value="ab475735.htm#Xab633492">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="locations, patient, defined">
+		<param name="Name" value="Templates, Sessions and Encounters">
+		<param name="Local" value="ab758626.htm#Xab945004">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="log off">
+		<param name="See Also" value="log off">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="automatic">
+			<param name="Name" value="Basic Settings">
+			<param name="Local" value="ac566752.htm#Xac559721">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="hiding patient data">
+			<param name="Name" value="Basic Settings">
+			<param name="Local" value="ac566752.htm#Xac559725">
+			<param name="Name" value="Basic Settings">
+			<param name="Local" value="ac566752.htm#Xac559725">
+			<param name="Name" value="Hide patient data after user log off">
+			<param name="Local" value="ac486988.htm#Xac530043">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Log on required to start new session option">
+		<param name="Name" value="Require a log-on to start a new session">
+		<param name="Local" value="ab949028.htm#Xab949054">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="macrobars, configuring macros">
+		<param name="Name" value="Configure a macro as an add-in">
+		<param name="Local" value="ab586622.htm#Xab952127">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="macros">
+		<param name="See Also" value="macros">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="adding to a template">
+			<param name="Name" value="Add-Ins">
+			<param name="Local" value="ab586565.htm#Xab698825">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="creating">
+			<param name="Name" value="Configure an event set as a macro">
+			<param name="Local" value="ac493155.htm#Xac517340">
+			<param name="Name" value="Event Sets and Macros">
+			<param name="Local" value="ac517144.htm#Xac498332">
+			<param name="Name" value="Event Sets and Macros">
+			<param name="Local" value="ac517144.htm#Xac498332">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="deleting">
+			<param name="Name" value="Delete an event set or macro">
+			<param name="Local" value="ac487788.htm#Xac517335">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="order of events">
+			<param name="Name" value="Create or edit an event set">
+			<param name="Local" value="ac491171.htm#Xac487772">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Mathematical Function parameter">
+		<param name="Name" value="Variable Properties">
+		<param name="Local" value="ab1137671.htm#Xab888635">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="MaximumDecimalsInDescriptions parameter">
+		<param name="Name" value="Decimal places in doses and volumes">
+		<param name="Local" value="ac475219.htm#Xac517820">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="MaximumRepresentedDigits parameter">
+		<param name="Name" value="Number of digits for rounding flowsheet values">
+		<param name="Local" value="ac517841.htm#Xac517842">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Medication Summary">
+		<param name="See Also" value="Medication Summary">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Medication Summary">
+			<param name="Local" value="ab1195658.htm#Xab981279">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="configuring">
+			<param name="Name" value="Configure the Medications Summary">
+			<param name="Local" value="ab951184.htm#Xab951200">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="default viewing period">
+			<param name="Name" value="Configure the Medications Summary">
+			<param name="Local" value="ab951184.htm#Xab533391">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="medication sort order">
+			<param name="Name" value="Configure the Medications Summary">
+			<param name="Local" value="ab951184.htm#Xab645606">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Medications flowsheet">
+		<param name="Name" value="Flowsheets">
+		<param name="Local" value="ab1061173.htm#Xab633668">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="medications">
+		<param name="See Also" value="medications">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="decimals in doses">
+			<param name="Name" value="Decimal places in doses and volumes">
+			<param name="Local" value="ac475219.htm#Xac517820">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="dose ranges as limits">
+			<param name="Name" value="Doses outside reference range">
+			<param name="Local" value="ac473863.htm#Xac517483">
+			<param name="Name" value="Modification of doses in medication and fluid orders">
+			<param name="Local" value="ac517410.htm#Xac517571">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Memo event">
+		<param name="Name" value="Remove one or more events from the library">
+		<param name="Local" value="ab948192.htm#Xab585859">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="menus">
+		<param name="See Also" value="menus">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="commands">
+			<param name="Name" value="Menu Commands and Toolbar Buttons">
+			<param name="Local" value="ab585547.htm#Xab889407">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="configuring">
+			<param name="Name" value="Configure menus">
+			<param name="Local" value="ab788019.htm#Xab952354">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Message to display in application parameter">
+		<param name="Name" value="Configure the system for device communication failures">
+		<param name="Local" value="ac536625.htm#Xac531501">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="messages">
+		<param name="See Also" value="messages">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="confirmation">
+			<param name="Name" value="Acknowledge completion of tasks">
+			<param name="Local" value="ac506445.htm#Xac517386">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="device communication failure">
+			<param name="Name" value="Configure the system for device communication failures">
+			<param name="Local" value="ac536625.htm#Xac536627">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="prompts for confirmation">
+			<param name="Name" value="Prompt users for confirmation">
+			<param name="Local" value="ac506421.htm#Xac517897">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="milestone events, required">
+		<param name="Name" value="Configure required events">
+		<param name="Local" value="ab948413.htm#Xab982532">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="milestones, anesthesia">
+		<param name="Name" value="Configure required events">
+		<param name="Local" value="ab948413.htm#Xab633630">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="model, for printouts">
+		<param name="Name" value="Set up printouts for Critical Care Manager">
+		<param name="Local" value="ab473347.htm#Xab489151">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="monitors. See devices.">
+		<param name="See Also" value="monitors. See devices.">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="MultiSelectionSymbol for assessments parameter">
+		<param name="Name" value="Assessments multi-selection symbol">
+		<param name="Local" value="ac506489.htm#Xac506490">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="New CareSuite Orders icon">
+		<param name="Name" value="Add or remove the New Orders icon">
+		<param name="Local" value="ab614416.htm#Xab949701">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="New External Orders icon">
+		<param name="Name" value="Add or remove the New External Orders icon">
+		<param name="Local" value="ab611034.htm#Xab949711">
+		<param name="Name" value="Add or remove the New External Orders icon">
+		<param name="Local" value="ab611034.htm#Xab681099">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="newlink NOTHB_PromptUserForConfirmOnExit">
+		<param name="Name" value="Prompt users for confirmation when quitting an application">
+		<param name="Local" value="ab686994.htm#Xab1147871">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Note Symbol parameter">
+		<param name="Name" value="Assessments note symbol">
+		<param name="Local" value="ac506497.htm#Xac506498">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="nursing care, custom flowsheets">
+		<param name="Name" value="Flowsheets">
+		<param name="Local" value="ab1061173.htm#Xab659850">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Open Demographics on transfer/discharge option">
+		<param name="Name" value="Display the Demographics window when ending a session">
+		<param name="Local" value="ab437950.htm#Xab949183">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="orders">
+		<param name="See Also" value="orders">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="discontinuing">
+			<param name="Name" value="Rights needed to discontinue orders">
+			<param name="Local" value="ac502181.htm#Xac530027">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="documenting after end time">
+			<param name="Name" value="Documentation limit for finished orders">
+			<param name="Local" value="ac248973.htm#Xac517551">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="documenting late">
+			<param name="Name" value="Time limit for documenting tasks">
+			<param name="Local" value="ac36137.htm#Xac517536">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="dose ranges as limits">
+			<param name="Name" value="Modification of doses in medication and fluid orders">
+			<param name="Local" value="ac517410.htm#Xac517571">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="extending">
+			<param name="Name" value="Extend order time limit">
+			<param name="Local" value="ac435815.htm#Xac517556">
+			<param name="Name" value="Memo for manual extensions of continuous V fluid orders">
+			<param name="Local" value="ac513766.htm#Xac517511">
+			<param name="Name" value="Order extension period">
+			<param name="Local" value="ac358160.htm#Xac517561">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="limit on documenting early">
+			<param name="Name" value="Early documentation limit">
+			<param name="Local" value="ac248691.htm#Xac517566">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="New CareSuite Orders icon">
+			<param name="Name" value="Add or remove the New Orders icon">
+			<param name="Local" value="ab614416.htm#Xab949701">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="New External Orders icon">
+			<param name="Name" value="Add or remove the New External Orders icon">
+			<param name="Local" value="ab611034.htm#Xab949711">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="starting time">
+			<param name="Name" value="Default starting time for orders added during a session">
+			<param name="Local" value="ac37521.htm#Xac517531">
+			<param name="Name" value="Rounded starting time for orders">
+			<param name="Local" value="ac247334.htm#Xac517602">
+			<param name="Name" value="Session start time as the default starting time for orders">
+			<param name="Local" value="ac246077.htm#Xac517611">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="PACU Manager">
+		<param name="See Also" value="PACU Manager">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="closing between sessions">
+			<param name="Name" value="Configure application to exit between patients">
+			<param name="Local" value="ab428541.htm#Xab949075">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="preferences">
+			<param name="Name" value="Display the Demographics window when ending a session">
+			<param name="Local" value="ab437950.htm#Xab949183">
+			<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+			<param name="Local" value="ab690669.htm#Xab949122">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="printing at end of session">
+			<param name="Name" value="Printouts">
+			<param name="Local" value="ab473642.htm#Xab949622">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="quitting">
+			<param name="Name" value="Prompt users for confirmation when quitting an application">
+			<param name="Local" value="ab686994.htm#Xab949097">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="templates">
+			<param name="Name" value="Default Templates">
+			<param name="Local" value="ab535514.htm#Xab886708">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Patient ID, Patient Summary">
+		<param name="Name" value="Configure sections for a report">
+		<param name="Local" value="ab586969.htm#Xab586978">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Patient Information Band">
+		<param name="See Also" value="Patient Information Band">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Patient Information Band">
+			<param name="Local" value="ab582058.htm#Xab887147">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="CareBeacon">
+			<param name="Name" value="Add or remove the Care Beacon">
+			<param name="Local" value="ab654601.htm#Xab949721">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="HIS icon">
+			<param name="Name" value="Add or remove the HIS icon">
+			<param name="Local" value="ab982101.htm#Xab982102">
+			<param name="Name" value="Configure the patient summary for export to the HIS">
+			<param name="Local" value="ab1195655.htm#Xab1195697">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="New CareSuite Orders icon">
+			<param name="Name" value="Add or remove the New Orders icon">
+			<param name="Local" value="ab614416.htm#Xab949701">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="New External Orders icon">
+			<param name="Name" value="Add or remove the New External Orders icon">
+			<param name="Local" value="ab611034.htm#Xab949711">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="patient name format">
+			<param name="Name" value="Set the format of the patient name">
+			<param name="Local" value="ab452562.htm#Xab951539">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Patient Printout button">
+		<param name="Name" value="Provide a toolbar button for printing preoperative instructions">
+		<param name="Local" value="ac584659.htm#Xac584697">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Patient Summary">
+		<param name="See Also" value="Patient Summary">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="content">
+			<param name="Name" value="Configure sections for a report">
+			<param name="Local" value="ab586969.htm#Xab951088">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="deleting tables">
+			<param name="Name" value="Delete a table">
+			<param name="Local" value="ab587068.htm#Xab951156">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="laboratory tables">
+			<param name="Name" value="Add a laboratory table">
+			<param name="Local" value="ab587026.htm#Xab951116">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="layout">
+			<param name="Name" value="Change the order of data tables">
+			<param name="Local" value="ab587045.htm#Xab587044">
+			<param name="Name" value="Change the order of data tables">
+			<param name="Local" value="ab587045.htm#Xab951136">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="patient ID for heading">
+			<param name="Name" value="Configure sections for a report">
+			<param name="Local" value="ab586969.htm#Xab586978">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="real-time data tables">
+			<param name="Name" value="Add a real-time data table">
+			<param name="Local" value="ab586997.htm#Xab951102">
+			<param name="Name" value="Add or remove a parameter from a data table">
+			<param name="Local" value="ab587057.htm#Xab951146">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="shift configuration">
+			<param name="Name" value="Shifts and Time Intervals">
+			<param name="Local" value="ab473644.htm#Xab949558">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Patient Weight real-time variable">
+		<param name="Name" value="Select variables for manual entry">
+		<param name="Local" value="ab624291.htm#Xab1007753">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="ports">
+		<param name="Name" value="Configuring Real-Time Variables">
+		<param name="Local" value="ab232596.htm#Xab711627">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Preop Manager">
+		<param name="Name" value="About Workstation Settings">
+		<param name="Local" value="ac596724.htm#Xac596706">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="physical exam section">
+			<param name="Name" value="Configure required data in the physical examination section">
+			<param name="Local" value="ac511900.htm#Xac517269">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="required data">
+			<param name="Name" value="Configure required data in the physical examination section">
+			<param name="Local" value="ac511900.htm#Xac517269">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Prescription/Validation rights, discontinuing orders">
+		<param name="Name" value="Rights needed to discontinue orders">
+		<param name="Local" value="ac502181.htm#Xac530027">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="PrescriptionRightsNeededToDiscontinue parameter">
+		<param name="Name" value="Rights needed to discontinue orders">
+		<param name="Local" value="ac502181.htm#Xac530027">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Print on transfer/discharge option">
+		<param name="Name" value="Print when transferring or discharging a patient">
+		<param name="Local" value="ab473370.htm#Xab949658">
+		<param name="Name" value="Printouts">
+		<param name="Local" value="ab473642.htm#Xab949622">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="printing to file">
+		<param name="Name" value="Set up printouts for Critical Care Manager">
+		<param name="Local" value="ab473347.htm#Xab694125">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="printouts">
+		<param name="See Also" value="printouts">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Printouts">
+			<param name="Local" value="ab473642.htm#Xab949596">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="configuring for automatic output">
+			<param name="Name" value="Set up printouts for Critical Care Manager">
+			<param name="Local" value="ab473347.htm#Xab949644">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="output options">
+			<param name="Name" value="Set up printouts for Critical Care Manager">
+			<param name="Local" value="ab473347.htm#Xab694125">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Prompt for confirmation when exiting application parameters">
+		<param name="Name" value="Prompt users for confirmation when quitting an application">
+		<param name="Local" value="ab686994.htm#Xab949097">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Prompt to discontinue orders when transferring patient IN parameter">
+		<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+		<param name="Local" value="ab690669.htm#Xab949156">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Prompt to discontinue orders when transferring patient OUT parameter">
+		<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+		<param name="Local" value="ab690669.htm#Xab949139">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Prompt to transfer/discharge after printout parameter">
+		<param name="Name" value="Transfer or discharge patient after printing">
+		<param name="Local" value="ab841393.htm#Xab949667">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="prompts">
+		<param name="See Also" value="prompts">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="confirmation">
+			<param name="Name" value="Prompt users for confirmation">
+			<param name="Local" value="ac506421.htm#Xac517897">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Daylight Saving Time">
+			<param name="Name" value="Show or hide the daylight savings time (DST) message">
+			<param name="Local" value="ac506462.htm#Xac506461">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="deleting events">
+			<param name="Name" value="Allow users to delete events">
+			<param name="Local" value="ab585897.htm#Xab585907">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="device communication failure">
+			<param name="Name" value="Device Communication Failures">
+			<param name="Local" value="ac506666.htm#Xac536620">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="discontinuing orders during patient transfers">
+			<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+			<param name="Local" value="ab690669.htm#Xab690668">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="exiting application">
+			<param name="Name" value="Prompt users for confirmation when quitting an application">
+			<param name="Local" value="ab686994.htm#Xab633411">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="protocols, order">
+		<param name="See Also" value="protocols, order">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Protocols">
+			<param name="Local" value="ab586120.htm#Xab982205">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="adding to chart automatically">
+			<param name="Name" value="Add one or more protocols to the library">
+			<param name="Local" value="ab586166.htm#Xab682282">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="default">
+			<param name="Name" value="Configure a default protocol">
+			<param name="Local" value="ab610140.htm#Xab950410">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Equipment window">
+			<param name="Name" value="Configure items for the Equipment window">
+			<param name="Local" value="ab642715.htm#Xab950440">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="library">
+			<param name="Name" value="Add one or more protocols to the library">
+			<param name="Local" value="ab586166.htm#Xab950817">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="QA Indicators window">
+			<param name="Name" value="Configure items for the QA Indicators window">
+			<param name="Local" value="ab642792.htm#Xab950448">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="starting time">
+			<param name="Name" value="Default starting time for orders added during a session">
+			<param name="Local" value="ac37521.htm#Xac517531">
+			<param name="Name" value="Rounded starting time for orders">
+			<param name="Local" value="ac247334.htm#Xac517602">
+			<param name="Name" value="Session start time as the default starting time for orders">
+			<param name="Local" value="ac246077.htm#Xac517611">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="QA Indicators, perioperative">
+		<param name="See Also" value="QA Indicators, perioperative">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="configuring">
+			<param name="Name" value="Configure items for the QA Indicators window">
+			<param name="Local" value="ab642792.htm#Xab642800">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="on flowsheets">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab659854">
+			<param name="Name" value="Quality assurance criteria on flowsheets">
+			<param name="Local" value="ac506544.htm#Xac517080">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="protocol for">
+			<param name="Name" value="Configure items for the QA Indicators window">
+			<param name="Local" value="ab642792.htm#Xab950448">
+			<param name="Name" value="Protocols">
+			<param name="Local" value="ab586120.htm#Xab982214">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="ReadSingleTmInterval parameter">
+		<param name="Name" value="Screen refresh rate/scroll speed">
+		<param name="Local" value="ac296024.htm#Xac332917">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Real-time data can be edited after validation parameter">
+		<param name="Name" value="Allow users to edit validated real-time data">
+		<param name="Local" value="ab814600.htm#Xab949285">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Real-Time Data Interval">
+		<param name="Name" value="Set the capacity of the emergency data reserve">
+		<param name="Local" value="ab692361.htm#Xab949577">
+		<param name="Name" value="Set the real-time data interval">
+		<param name="Local" value="ab690101.htm#Xab949568">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Real-Time Data Interval parameter">
+		<param name="Name" value="Shifts and Time Intervals">
+		<param name="Local" value="ab473644.htm#Xab982485">
+		<param name="Name" value="Shifts and Time Intervals">
+		<param name="Local" value="ab473644.htm#Xab949539">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Real-Time Variables Summary">
+		<param name="Name" value="Configure the option to validate real-time data">
+		<param name="Local" value="ab648598.htm#Xab951829">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="real-time variables">
+		<param name="See Also" value="real-time variables">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="color of edited data">
+			<param name="Name" value="Set the color for edited real-time data">
+			<param name="Local" value="ab814624.htm#Xab949306">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="copying forward">
+			<param name="Name" value="Variable Properties">
+			<param name="Local" value="ab1137671.htm#Xab1130535">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="data collection interval">
+			<param name="Name" value="Set the capacity of the emergency data reserve">
+			<param name="Local" value="ab692361.htm#Xab949577">
+			<param name="Name" value="Set the real-time data interval">
+			<param name="Local" value="ab690101.htm#Xab949568">
+			<param name="Name" value="Shifts and Time Intervals">
+			<param name="Local" value="ab473644.htm#Xab949539">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="editing device data">
+			<param name="Name" value="Allow users to edit device data">
+			<param name="Local" value="ab814583.htm#Xab949247">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="editing validated data">
+			<param name="Name" value="Allow users to edit validated real-time data">
+			<param name="Local" value="ab814600.htm#Xab949285">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="flowsheet preview">
+			<param name="Name" value="Review the real-time variables list">
+			<param name="Local" value="ab681524.htm#Xab980292">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="from devices">
+			<param name="Name" value="Select variables for each device">
+			<param name="Local" value="ab232614.htm#Xab949755">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="laboratory parameters">
+			<param name="Name" value="Devices and Real-Time Variables">
+			<param name="Local" value="ab475735.htm#Xab633492">
+			<param name="Name" value="Devices and Real-Time Variables">
+			<param name="Local" value="ab475735.htm#Xab330646">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="manual data entry">
+			<param name="Name" value="Select variables for manual entry">
+			<param name="Local" value="ab624291.htm#Xab949775">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="order on flowsheet">
+			<param name="Name" value="Adjust the order of variables on the flowsheet">
+			<param name="Local" value="ab624294.htm#Xab982178">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Patient Summary">
+			<param name="Name" value="Add a real-time data table">
+			<param name="Local" value="ab586997.htm#Xab951102">
+			<param name="Name" value="Add or remove a parameter from a data table">
+			<param name="Local" value="ab587057.htm#Xab951146">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="preferences for">
+			<param name="Name" value="Preferences for Real-Time Data">
+			<param name="Local" value="ab813038.htm#Xab949210">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="properties">
+			<param name="Name" value="Configure variable properties">
+			<param name="Local" value="ab947610.htm#Xab950202">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Real-time variables flowsheet">
+			<param name="Name" value="Flowsheets">
+			<param name="Local" value="ab1061173.htm#Xab1071465">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="validation">
+			<param name="Name" value="Configure the option to validate real-time data">
+			<param name="Local" value="ab648598.htm#Xab951829">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Vital Signs bar">
+			<param name="Name" value="Choose what to display on the Vital Signs bar">
+			<param name="Local" value="ab549545.htm#Xab950395">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="reference variable in Patient Summary">
+		<param name="Name" value="Add a real-time data table">
+		<param name="Local" value="ab586997.htm#Xab645227">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="refresh rate, screen">
+		<param name="Name" value="Screen refresh rate/scroll speed">
+		<param name="Local" value="ac296024.htm#Xac517129">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="remote access to patients">
+		<param name="Name" value="Basic Settings">
+		<param name="Local" value="ac566752.htm#Xac498227">
+		<param name="Name" value="New Concepts in 7.2">
+		<param name="Local" value="aa493200.htm#Xaa503548">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="reordering flowsheets">
+		<param name="Name" value="Change the order of flowsheets in the application">
+		<param name="Local" value="ab1080420.htm#Xab1083606">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="required data">
+		<param name="See Also" value="required data">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="anesthesia milestones">
+			<param name="Name" value="Configure required events">
+			<param name="Local" value="ab948413.htm#Xab633630">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="CaseCheck">
+			<param name="Name" value="Configure a Demographics section">
+			<param name="Local" value="ab435028.htm#Xab951223">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="clinical roles">
+			<param name="Name" value="Configure required functional types and clinical priorities">
+			<param name="Local" value="ab448412.htm#Xab951381">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="demographics">
+			<param name="Name" value="Configure a Demographics section">
+			<param name="Local" value="ab435028.htm#Xab951223">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="events">
+			<param name="Name" value="Configure required events">
+			<param name="Local" value="ab948413.htm#Xab633630">
+			<param name="Name" value="Configure required events">
+			<param name="Local" value="ab948413.htm#Xab951351">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="functional types">
+			<param name="Name" value="Configure required functional types and clinical priorities">
+			<param name="Local" value="ab448412.htm#Xab951381">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="resolution, flowsheet, default for a flowsheet">
+		<param name="Name" value="Modify basic properties of a standard or custom flowsheet">
+		<param name="Local" value="ab697127.htm#Xab697144">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="respiratory care, on flowsheets">
+		<param name="Name" value="Flowsheets">
+		<param name="Local" value="ab1061173.htm#Xab659851">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Round_To_Minutes parameter">
+		<param name="Name" value="Rounded starting time for orders">
+		<param name="Local" value="ac247334.htm#Xac517602">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="scores, custom, custom flowsheets">
+		<param name="Name" value="Flowsheets">
+		<param name="Local" value="ab1061173.htm#Xab659849">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="screen layouts">
+		<param name="See Also" value="screen layouts">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="configuring as add-ins">
+			<param name="Name" value="Configure a screen layout as an add-in">
+			<param name="Local" value="ab586675.htm#Xab952205">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="defined">
+			<param name="Name" value="Add-Ins">
+			<param name="Local" value="ab586565.htm#Xab698832">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="scrolling speed">
+		<param name="Name" value="Screen refresh rate/scroll speed">
+		<param name="Local" value="ac296024.htm#Xac517129">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="scrolling, flowsheet, turning off">
+		<param name="Name" value="Create a custom flowsheet and set basic properties">
+		<param name="Local" value="ab649285.htm#Xab982467">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Send e-mail notification parameter">
+		<param name="Name" value="Configure the system for device communication failures">
+		<param name="Local" value="ac536625.htm#Xac531500">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="sessions">
+		<param name="See Also" value="sessions">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="defined">
+			<param name="Name" value="Templates, Sessions and Encounters">
+			<param name="Local" value="ab758626.htm#Xab945004">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="requiring log on for">
+			<param name="Name" value="Require a log-on to start a new session">
+			<param name="Local" value="ab949028.htm#Xab949054">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="shifts">
+		<param name="See Also" value="shifts">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="configuring">
+			<param name="Name" value="Configure the daily shift schedule">
+			<param name="Local" value="ab887094.htm#Xab949587">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="defined">
+			<param name="Name" value="Shifts and Time Intervals">
+			<param name="Local" value="ab473644.htm#Xab949558">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="fluid balance window">
+			<param name="Name" value="Shifts and Time Intervals">
+			<param name="Local" value="ab473644.htm#Xab949558">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Patient Summary">
+			<param name="Name" value="Shifts and Time Intervals">
+			<param name="Local" value="ab473644.htm#Xab949558">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Show Equipment Assessments on flowsheets parameter">
+		<param name="Name" value="Equipment checklists on flowsheets">
+		<param name="Local" value="ac506535.htm#Xac506537">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Show only rows with data by default parameter">
+		<param name="Name" value="Create a custom flowsheet and set basic properties">
+		<param name="Local" value="ab649285.htm#Xab982466">
+		<param name="Name" value="Modify basic properties of a standard or custom flowsheet">
+		<param name="Local" value="ab697127.htm#Xab982464">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Show QA Assessments parameter">
+		<param name="Name" value="Quality assurance criteria on flowsheets">
+		<param name="Local" value="ac506544.htm#Xac506545">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Show_Current_Time_Click parameter">
+		<param name="Name" value="Default time for documenting a task">
+		<param name="Local" value="ac485690.htm#Xac517625">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="ShowContinuousInExtendWindow parameter">
+		<param name="Name" value="Memo for manual extensions of continuous V fluid orders">
+		<param name="Local" value="ac513766.htm#Xac517511">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="ShowModifyOrderAccess parameter">
+		<param name="Name" value="Modification of doses in medication and fluid orders">
+		<param name="Local" value="ac517410.htm#Xac517571">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="stopwatches. See timers.">
+		<param name="See Also" value="stopwatches. See timers.">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Supervisory Anesthesia Module (SAM), default event type">
+		<param name="Name" value="Events">
+		<param name="Local" value="ab585769.htm#Xab633549">
+		<param name="Name" value="Select default supervisory event type">
+		<param name="Local" value="ab585912.htm#Xab950970">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="templates">
+		<param name="See Also" value="templates">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="About Templates">
+			<param name="Local" value="ab1070520.htm#Xab1069944">
+			<param name="Name" value="Introduction">
+			<param name="Local" value="aa509892.htm#Xaa520675">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="creating new">
+			<param name="Name" value="Create a new template">
+			<param name="Local" value="ab637564.htm#Xab946281">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="customizing">
+			<param name="Name" value="Creating Custom Templates">
+			<param name="Local" value="ab820003.htm#Xab886766">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="default">
+			<param name="Name" value="Default Templates">
+			<param name="Local" value="ab535514.htm#Xab886708">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="encounter type">
+			<param name="Name" value="Set the encounter type">
+			<param name="Local" value="ab593313.htm#Xab948943">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="opening">
+			<param name="Name" value="Open a template for editing">
+			<param name="Local" value="ab474659.htm#Xab946219">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="preferences">
+			<param name="Name" value="Preferences">
+			<param name="Local" value="ab1129617.htm#Xab1129618">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="saving">
+			<param name="Name" value="Save a template">
+			<param name="Local" value="ab680094.htm#Xab948997">
+			<param name="Name" value="Save a template">
+			<param name="Local" value="ab680094.htm#Xab948990">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="sessions, relation to">
+			<param name="Name" value="Templates, Sessions and Encounters">
+			<param name="Local" value="ab758626.htm#Xab945004">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="time bar">
+			<param name="Name" value="Templates, Sessions and Encounters">
+			<param name="Local" value="ab758626.htm#Xab944997">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="time bar">
+		<param name="See Also" value="time bar">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="encounter name">
+			<param name="Name" value="Templates, Sessions and Encounters">
+			<param name="Local" value="ab758626.htm#Xab944997">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="scrolling speed">
+			<param name="Name" value="Screen refresh rate/scroll speed">
+			<param name="Local" value="ac296024.htm#Xac517129">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="template name">
+			<param name="Name" value="Templates, Sessions and Encounters">
+			<param name="Local" value="ab758626.htm#Xab944997">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="time limits">
+		<param name="See Also" value="time limits">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="completing documentation">
+			<param name="Name" value="Set the time limit for completing documentation">
+			<param name="Local" value="ab471641.htm#Xab533461">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="deleting events">
+			<param name="Name" value="Allow users to delete events">
+			<param name="Local" value="ab585897.htm#Xab585909">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="documenting PRN orders">
+			<param name="Name" value="Documentation limit for finished orders">
+			<param name="Local" value="ac248973.htm#Xac517551">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="documenting tasks early">
+			<param name="Name" value="Early documentation limit">
+			<param name="Local" value="ac248691.htm#Xac517566">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="documenting tasks late">
+			<param name="Name" value="Time limit for documenting tasks">
+			<param name="Local" value="ac36137.htm#Xac517536">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="timers">
+		<param name="See Also" value="timers">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="about">
+			<param name="Name" value="Timers">
+			<param name="Local" value="ab649482.htm#Xab889348">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="creating">
+			<param name="Name" value="Create a timer">
+			<param name="Local" value="ab607233.htm#Xab952072">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="modifying">
+			<param name="Name" value="Change a timer window title and/or command">
+			<param name="Local" value="ab607250.htm#Xab952082">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="removing">
+			<param name="Name" value="Remove a timer">
+			<param name="Local" value="ab698791.htm#Xab952092">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="TimeToValidateFinishedOrder parameter">
+		<param name="Name" value="Documentation limit for finished orders">
+		<param name="Local" value="ac248973.htm#Xac517551">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="toolbars">
+		<param name="See Also" value="toolbars">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="adding buttons">
+			<param name="Name" value="Add buttons to the toolbar">
+			<param name="Local" value="ab788080.htm#Xab952370">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="button properties">
+			<param name="Name" value="Edit the properties of buttons on the toolbar">
+			<param name="Local" value="ab788106.htm#Xab952392">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="editing button properties">
+			<param name="Name" value="Edit the properties of buttons on the toolbar">
+			<param name="Local" value="ab788106.htm#Xab788104">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="rearranging buttons">
+			<param name="Name" value="Rearrange buttons on the toolbar">
+			<param name="Local" value="ab788144.htm#Xab952416">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="removing buttons">
+			<param name="Name" value="Remove buttons from the toolbar">
+			<param name="Local" value="ab788127.htm#Xab952406">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="transferring patients">
+		<param name="See Also" value="transferring patients">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="preferences">
+			<param name="Name" value="Display the Demographics window when ending a session">
+			<param name="Local" value="ab437950.htm#Xab949183">
+			<param name="Name" value="Prompt users to discontinue orders when transferring a patient">
+			<param name="Local" value="ab690669.htm#Xab949173">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="printing">
+			<param name="Name" value="Print when transferring or discharging a patient">
+			<param name="Local" value="ab473370.htm#Xab949658">
+			<param name="Name" value="Transfer or discharge patient after printing">
+			<param name="Local" value="ab841393.htm#Xab949667">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="trends">
+		<param name="See Also" value="trends">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="creating">
+			<param name="Name" value="Create or edit a trend for use in any flowsheet">
+			<param name="Local" value="ab696897.htm#Xab951992">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="deleting">
+			<param name="Name" value="Delete a trend">
+			<param name="Local" value="ab705404.htm#Xab952008">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="on flowsheets">
+			<param name="Name" value="Create or edit a trend section on a flowsheet">
+			<param name="Local" value="ab586540.htm#Xab951982">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="UseCaseStartingTime parameter">
+		<param name="Name" value="Session start time as the default starting time for orders">
+		<param name="Local" value="ac246077.htm#Xac517611">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="UseRangeAsReferenceOnly parameter">
+		<param name="Name" value="Doses outside reference range">
+		<param name="Local" value="ac473863.htm#Xac517483">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="validating">
+		<param name="See Also" value="validating">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="editing after validation">
+			<param name="Name" value="Preferences for Real-Time Data">
+			<param name="Local" value="ab813038.htm#Xab598617">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="editing validated data">
+			<param name="Name" value="Allow users to edit validated real-time data">
+			<param name="Local" value="ab814600.htm#Xab814599">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="View/Chart remote patient access">
+		<param name="Name" value="Set the type of access to remote patients">
+		<param name="Local" value="ac584737.htm#Xac502142">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="viewing periods">
+		<param name="See Also" value="viewing periods">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="flowsheets">
+			<param name="Name" value="Modify basic properties of a standard or custom flowsheet">
+			<param name="Local" value="ab697127.htm#Xab697144">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="Patient Summary">
+			<param name="Name" value="Configure viewing periods for the report">
+			<param name="Local" value="ab586933.htm#Xab694600">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="View-only remote patient access">
+		<param name="Name" value="Set the type of access to remote patients">
+		<param name="Local" value="ac584737.htm#Xac502141">
+		<param name="Name" value="Set the type of access to remote patients">
+		<param name="Local" value="ac584737.htm#Xac506317">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="Vital Signs bar">
+		<param name="See Also" value="Vital Signs bar">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="AdmWt/AdmHt/BSA">
+			<param name="Name" value="Choose what to display on the Vital Signs bar">
+			<param name="Local" value="ab549545.htm#Xab982492">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="fluid balance data">
+			<param name="Name" value="Choose what to display on the Vital Signs bar">
+			<param name="Local" value="ab549545.htm#Xab982492">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="overview">
+			<param name="Name" value="Vital Signs Bar">
+			<param name="Local" value="ab757068.htm#Xab982199">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="real-time variables">
+			<param name="Name" value="Choose what to display on the Vital Signs bar">
+			<param name="Local" value="ab549545.htm#Xab950395">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="variables in alert status">
+			<param name="Name" value="Set the default status of alerts">
+			<param name="Local" value="ab763484.htm#Xab763504">
+			</object>
+	</ul>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="wildcard variables">
+		<param name="Name" value="Select variables for manual entry">
+		<param name="Local" value="ab624291.htm#Xab633513">
+		</object>
+	<li> <object type="text/sitemap">
+		<param name="Name" value="workstation configuration">
+		<param name="See Also" value="workstation configuration">
+		</object>
+	<ul>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="automatic log off">
+			<param name="Name" value="Basic Settings">
+			<param name="Local" value="ac566752.htm#Xac559721">
+			</object>
+		<li> <object type="text/sitemap">
+			<param name="Name" value="hiding patient data">
+			<param name="Name" value="Basic Settings">
+			<param name="Local" value="ac566752.htm#Xac559725">
+			</object>
+</ul>
+</ul>
+</body></html>

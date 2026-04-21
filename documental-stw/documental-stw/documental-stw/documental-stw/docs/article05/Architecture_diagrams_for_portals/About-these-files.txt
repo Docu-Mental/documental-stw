@@ -1,0 +1,1 @@
+These diagrams were created using LucidChart. They show the documentation portals available for six client packages. Each rectangle inside an orange or green section is a sub-portal created from its own Confluence wiki space using the K15t Scroll addin. Versioning is available for each wiki space. Content from each sub-portal is shown conditionally depending on the package.

@@ -1,0 +1,3 @@
+These files show a glimpse of my involvement in the creation of release notes:
+- A Release Notes PDF file
+- Screenshots of release note pages from a Confluence/Scroll portal 
